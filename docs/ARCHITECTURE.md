@@ -2,6 +2,11 @@
 
 ## 1. Problem
 
+**Problem statement:** Insurance business users need self-service answers
+from three disconnected sources — structured operational data, unstructured
+policy documents, and data-quality pipelines — without waiting on a SQL
+analyst, document reviewer, or data engineer each time.
+
 Business users at insurers need answers from structured operational data
 (policies, claims, billing), unstructured documents (policy contracts,
 exclusion clauses), and data-quality pipelines — but today each requires a
@@ -101,3 +106,16 @@ exposes `ENTERPRISE_AI_AGENT` itself as a single `CORTEX_AGENT_RUN` MCP
 tool, so any MCP-compatible client (tested live with Claude's Connectors
 UI) gets the same fully-executed, orchestrated answers as the Streamlit
 app — not just generated SQL — across all three capabilities.
+
+## 4. Benefits
+
+- **Faster answers** — questions that took hours (waiting on an analyst, a
+  document review, or a DQ ticket) now resolve in seconds, in one
+  conversation.
+- **No new tools to learn** — business users ask in plain English; no SQL,
+  no BI dashboard navigation, no ticket queue.
+- **Trustworthy by design** — every answer shows its generated SQL or
+  source document citation, so it can be verified, not just trusted.
+- **One integration, many channels** — a single Cortex Agent (and its MCP
+  server) already serves Streamlit, and any MCP-compatible client, without
+  separate integrations per capability.
