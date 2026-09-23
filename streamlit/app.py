@@ -188,6 +188,7 @@ with title_col1:
         st.image(AVATAR_PATH, width=64)
 with title_col2:
     st.title("Ansura")
+    st.markdown("###### Unified Enterprise AI Agents Platform")
 st.caption(
     "Ask about policies, claims, and billing in plain English, search policy "
     "documents, or ask why a data quality check failed — one chat box, three "
