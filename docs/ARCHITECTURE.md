@@ -1,4 +1,7 @@
-# Architecture Documentation — Unified Enterprise AI Agents Platform
+# Architecture Documentation — Ansura
+
+*Ansura — a Unified Enterprise AI Agents Platform (Snowflake x Capgemini
+Hackathon, Challenge 6)*
 
 ## 1. Problem
 
@@ -11,7 +14,7 @@ Business users at insurers need answers from structured operational data
 (policies, claims, billing), unstructured documents (policy contracts,
 exclusion clauses), and data-quality pipelines — but today each requires a
 different specialist (a SQL/BI analyst, a document reviewer, a data
-engineer). This platform collapses all three into one natural-language
+engineer). Ansura collapses all three into one natural-language
 conversation.
 
 ## 2. High-level architecture

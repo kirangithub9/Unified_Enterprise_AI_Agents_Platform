@@ -1,4 +1,4 @@
-# 5–6 Minute Demo Video Outline
+# Ansura — 5–6 Minute Demo Video Outline
 
 Target: hit all four judging criteria explicitly and on camera — don't make
 the judges infer it. Extended from the original 5:00 cut to add the
@@ -9,7 +9,7 @@ business-value recap if you need to land back at 5:00.
 "Business users at an insurer need three different specialists to get an
 answer: a SQL analyst for numbers, a document reviewer for policy text, and
 a data engineer for 'why is this dashboard wrong.' We built one agent that
-replaces all three." Show the chat UI empty, ready.
+replaces all three — meet Ansura." Show the chat UI empty, ready.
 
 **0:30–1:15 — Agent 1: Self-Service Analytics (Innovation + Technical Excellence)**
 Type: *"What's our average loss ratio by policy type, and which policy type
@@ -87,8 +87,8 @@ cutting time-to-answer from [X] to seconds, makes every answer auditable
 via generated SQL and citations, and now makes every call — from any
 channel — auditable down to the tool, model, and token cost that answered
 it." Recap the three agents + unified orchestration + multi-channel (Streamlit,
-MCP/Claude) access, mention GitHub repo and architecture doc are included,
-thank the judges.
+MCP/Claude) access — "That's Ansura" — mention GitHub repo and architecture
+doc are included, thank the judges.
 
 ## Filming tips
 

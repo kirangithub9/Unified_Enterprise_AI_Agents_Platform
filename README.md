@@ -1,11 +1,11 @@
-# Unified Enterprise AI Agents Platform
+# Ansura
 
 **Snowflake x Capgemini Hackathon — Challenge 6: Unified Enterprise AI Agents Platform**
 *AI-Powered Self-Service Analytics, Document Intelligence & Data Trust*
 
-A single conversational agent — built entirely on Snowflake Cortex — that lets
-business users ask natural-language questions across three domains without
-writing SQL, using a BI tool, or filing a ticket with a data team:
+Ansura is a single conversational agent — built entirely on Snowflake Cortex —
+that lets business users ask natural-language questions across three domains
+without writing SQL, using a BI tool, or filing a ticket with a data team:
 
 Tool names match the authoritative requirement doc ("Snowflake Cortex AI
 Agents – Unified Business Enablement") word-for-word:
@@ -19,6 +19,14 @@ Agents – Unified Business Enablement") word-for-word:
 All three are exposed as **tools of one Cortex Agent** (`ENTERPRISE_AI_AGENT`),
 which is the point of the "Unified" framing — one chat box, automatic routing
 to whichever capability the question actually needs.
+
+## About the name
+
+**Ansura** is this solution's product name for the Snowflake x Capgemini
+hackathon submission (Challenge 6). The underlying Snowflake objects keep
+their descriptive identifiers (`ENTERPRISE_AI_AGENT`, `ENTERPRISE_AI_MCP_SERVER`,
+etc.) — Ansura is the name to use in the submission, demo video, and any
+outward-facing material.
 
 ## Repo structure
 
