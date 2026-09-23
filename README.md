@@ -50,6 +50,9 @@ streamlit/
   pages/1_Dashboard.py                    Portfolio/risk, trend, and agent-accuracy dashboard
   environment.yml                         SiS package spec
   secrets.toml.example                    Local-dev-only connection template
+  assets/ansura_avatar.png                Ansura chat avatar / page icon (circular crop)
+  assets/ansura_sidebar_banner.png        Ansura logo banner (sidebar branding, cropped)
+  assets/ansura_logo_banner.png           Ansura logo, full original (for slides/docs)
 docs/
   ARCHITECTURE.md                         1-2 page architecture doc (submission requirement)
   DEMO_VIDEO_OUTLINE.md                   5-minute demo script
@@ -85,8 +88,12 @@ docs/
 9. In Snowsight: **Streamlit > + Streamlit App**, point it at `streamlit/app.py`
    (with `streamlit/pages/1_Dashboard.py` alongside it for the multipage
    dashboard) inside `INSURANCE_AI_HUB.PUBLIC`, attach `environment.yml`, and run.
-   Ask it a few questions first so the dashboard's "Agent Accuracy & Usage"
-   tab has data to show.
+   Also upload `streamlit/assets/ansura_avatar.png` and
+   `streamlit/assets/ansura_sidebar_banner.png` into the app's `assets/`
+   folder (via the file browser in the Snowsight Streamlit editor) — the
+   chat UI uses these for the page icon, sidebar branding, and chat avatar,
+   and falls back to a 🧠 emoji if they're missing. Ask it a few questions
+   first so the dashboard's "Agent Accuracy & Usage" tab has data to show.
 
    **Note**: this app is Snowsight-managed (not git-integrated), so a code
    change in this repo does NOT automatically reach the deployed app — after

@@ -1,5 +1,5 @@
 """
-Unified Enterprise AI Agents Platform — chat front end
+Ansura — chat front end (Unified Enterprise AI Agents Platform)
 Snowflake Hackathon (Capgemini x Snowflake)
 
 Single chat UI that talks to the ENTERPRISE_AI_AGENT (Cortex Agent), which
@@ -18,11 +18,17 @@ inside the INSURANCE_AI_HUB database / PUBLIC schema, on any warehouse.
 """
 
 import json
+import os
 import time
 import uuid
 import streamlit as st
 
-st.set_page_config(page_title="Enterprise AI Agent", page_icon="🧠", layout="wide")
+ASSETS_DIR = os.path.join(os.path.dirname(__file__), "assets")
+AVATAR_PATH = os.path.join(ASSETS_DIR, "ansura_avatar.png")
+BANNER_PATH = os.path.join(ASSETS_DIR, "ansura_sidebar_banner.png")
+ASSISTANT_AVATAR = AVATAR_PATH if os.path.exists(AVATAR_PATH) else "🧠"
+
+st.set_page_config(page_title="Ansura", page_icon=AVATAR_PATH if os.path.exists(AVATAR_PATH) else "🧠", layout="wide")
 
 # ---------------------------------------------------------------------------
 # Connection setup — works both inside Streamlit-in-Snowflake (SiS) and, for
@@ -176,7 +182,12 @@ def call_agent(query: str) -> dict:
 # ---------------------------------------------------------------------------
 # UI
 # ---------------------------------------------------------------------------
-st.title("🧠 Unified Enterprise AI Agent")
+title_col1, title_col2 = st.columns([1, 10])
+with title_col1:
+    if os.path.exists(AVATAR_PATH):
+        st.image(AVATAR_PATH, width=64)
+with title_col2:
+    st.title("Ansura")
 st.caption(
     "Ask about policies, claims, and billing in plain English, search policy "
     "documents, or ask why a data quality check failed — one chat box, three "
@@ -184,6 +195,8 @@ st.caption(
 )
 
 with st.sidebar:
+    if os.path.exists(BANNER_PATH):
+        st.image(BANNER_PATH, use_container_width=True)
     st.subheader("Try asking")
     st.markdown(
         "- *What is our average loss ratio by policy type?*\n"
@@ -201,7 +214,8 @@ with st.sidebar:
 st.session_state.setdefault("messages", [])
 
 for i, msg in enumerate(st.session_state.messages):
-    with st.chat_message(msg["role"]):
+    avatar = ASSISTANT_AVATAR if msg["role"] == "assistant" else None
+    with st.chat_message(msg["role"], avatar=avatar):
         if msg.get("tool_name"):
             st.caption(f"via {TOOL_LABELS.get(msg['tool_name'], msg['tool_name'])}")
         st.markdown(msg["content"])
@@ -228,7 +242,7 @@ if user_input:
         st.markdown(user_input)
     st.session_state.messages.append({"role": "user", "content": user_input})
 
-    with st.chat_message("assistant"):
+    with st.chat_message("assistant", avatar=ASSISTANT_AVATAR):
         with st.spinner("Thinking..."):
             start = time.time()
             result = call_agent(user_input)
