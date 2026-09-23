@@ -38,7 +38,7 @@ endobj
 /F1 6 0 R
 /F2 7 0 R
 /F3 8 0 R
-/F1e26b3472-0681-460d-bc7a-06c44dce0d22 <<
+/F18a9e1d55-84fe-4b84-a95c-4044c77b2ddf <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
 /Name /F1
@@ -49,7 +49,7 @@ endobj
 /XObject <<
 /FormXob.af2edd0b3987d108eede7120b5d960a6 10 0 R
 >>
-/ProcSet [ /PDF /ImageB /ImageI /Text /ImageC ]
+/ProcSet [ /ImageB /ImageC /Text /PDF /ImageI ]
 >>
 /Rotate 0
 /Trans <<
@@ -145,7 +145,7 @@ BT
 30 TL
 ET
 BT
-1 0 0 1 43.2 732 Tm
+1 0 0 1 83.2 732 Tm
 (Ansura) Tj
 T*
 ET
@@ -824,11 +824,11 @@ W
 n
 1 0 0 1 0 0 cm
 BT
-/F1e26b3472-0681-460d-bc7a-06c44dce0d22 12 Tf
+/F18a9e1d55-84fe-4b84-a95c-4044c77b2ddf 12 Tf
 14.4 TL
 ET
 q
-34 0 0 34 43.2 750 cm
+32 0 0 32 43.2 725 cm
 /FormXob.af2edd0b3987d108eede7120b5d960a6 Do
 Q
 Q
