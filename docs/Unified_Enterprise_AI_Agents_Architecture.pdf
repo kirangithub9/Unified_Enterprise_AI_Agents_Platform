@@ -1,128 +1,2030 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 10 0 R 12 0 R ]
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Producer (PyPDF2)
+/Title (Ansura\040\055\040Architecture\040Documentation)
+/Author ()
+/Subject (\050unspecified\051)
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 1 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.35
+>>
+/gRLs1 <<
+/ca 0.1
+>>
+>>
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 1 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 11 0 R /MediaBox [ 0 0 612 792 ] /Parent 10 0 R /Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca .35
->> /gRLs1 <<
-/ca .1
+/Length 8559
 >>
->> /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.168627 .203922 .254902 rg
+n 0 674 612 118 re f*
+.298039 .4 .521569 rg
+n 0 668 122.9 6 re f*
+.360784 .478431 .4 rg
+n 122.4 668 122.9 6 re f*
+.643137 .458824 .317647 rg
+n 244.8 668 122.9 6 re f*
+.419608 .392157 .470588 rg
+n 367.2 668 122.9 6 re f*
+.545098 .360784 .403922 rg
+n 489.6 668 122.9 6 re f*
+q
+.298039 .4 .521569 rg
+/gRLs0 gs
+n
+566 762 m
+566 787.4051 545.4051 808 520 808 c
+494.5949 808 474 787.4051 474 762 c
+474 736.5949 494.5949 716 520 716 c
+545.4051 716 566 736.5949 566 762 c
+f*
+Q
+q
+.545098 .360784 .403922 rg
+/gRLs0 gs
+n
+590 704 m
+590 720.5685 576.5685 734 560 734 c
+543.4315 734 530 720.5685 530 704 c
+530 687.4315 543.4315 674 560 674 c
+576.5685 674 590 687.4315 590 704 c
+f*
+Q
+q
+.360784 .478431 .4 rg
+/gRLs0 gs
+n
+498 692 m
+498 701.9411 489.9411 710 480 710 c
+470.0589 710 462 701.9411 462 692 c
+462 682.0589 470.0589 674 480 674 c
+489.9411 674 498 682.0589 498 692 c
+f*
+Q
+q
+.643137 .458824 .317647 rg
+/gRLs0 gs
+n
+601 772 m
+601 780.8366 593.8366 788 585 788 c
+576.1634 788 569 780.8366 569 772 c
+569 763.1634 576.1634 756 585 756 c
+593.8366 756 601 763.1634 601 772 c
+f*
+Q
+1 1 1 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 43.2 732 Tm (Ansura) Tj T* ET
+BT /F1 12.5 Tf 15 TL ET
+.780392 .823529 .996078 rg
+BT 1 0 0 1 43.2 710 Tm (Architecture Documentation) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+.647059 .705882 .988235 rg
+BT 1 0 0 1 43.2 691 Tm (Built natively on Snowflake Cortex  |  Insurance self-service analytics, documents and data quality) Tj T* ET
+.298039 .4 .521569 rg
+n 0 0 122.9 3 re f*
+.360784 .478431 .4 rg
+n 122.4 0 122.9 3 re f*
+.643137 .458824 .317647 rg
+n 244.8 0 122.9 3 re f*
+.419608 .392157 .470588 rg
+n 367.2 0 122.9 3 re f*
+.545098 .360784 .403922 rg
+n 489.6 0 122.9 3 re f*
+BT /F1 7.5 Tf 9 TL ET
+.419608 .454902 .501961 rg
+BT 1 0 0 1 43.2 16 Tm (Ansura  -  Architecture Documentation) Tj T* ET
+BT 1 0 0 1 545.0325 16 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 43.2 668.4 cm
+Q
+q
+1 0 0 1 43.2 641.4 cm
+q
+.298039 .4 .521569 rg
+n 0 27 26 -27 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 5.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 3.386 0 Td (1) Tj T* -3.386 0 Td ET
+Q
+Q
+q
+1 0 0 1 36 4 cm
+q
+.168627 .203922 .254902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Problem) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.298039 .4 .521569 RG
+1.2 w
+n 26 0 m 525.6 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 43.2 633.4 cm
+Q
+q
+1 0 0 1 43.2 568.4 cm
+q
+.909804 .929412 .94902 rg
+n 0 65 525.6 -65 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 14 10 cm
+q
+BT 1 0 0 1 0 35 Tm 15 TL /F2 10 Tf .168627 .203922 .254902 rg (Problem statement:) Tj /F1 10 Tf ( Insurance business users need self-service answers from three disconnected sources:) Tj T* (structured operational data, unstructured policy documents, and data-quality pipelines, without waiting on a SQL) Tj T* (analyst, document reviewer, or data engineer each time.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.298039 .4 .521569 RG
+4 w
+n 0 0 m 0 65 l S
+Q
+Q
+Q
+q
+1 0 0 1 43.2 558.4 cm
+Q
+q
+1 0 0 1 43.2 516.4 cm
+q
+.247059 .290196 .352941 rg
+BT 1 0 0 1 0 32.5 Tm /F1 9.5 Tf 14 TL (Business users at insurers need answers from structured operational data \(policies, claims, billing\), unstructured documents) Tj T* (\(policy contracts, exclusion clauses\), and data-quality pipelines, but today each requires a different specialist. This platform) Tj T* (collapses all three into one natural-language conversation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 502.4 cm
+Q
+q
+1 0 0 1 43.2 390.4 cm
+q
+0 0 0 rg
+/gRLs1 gs
+n
+7.5 78.2 m
+230.5 78.2 l
+233.8168 78.2 236.5 80.8832 236.5 84.2 c
+236.5 104.2 l
+236.5 107.5168 233.8168 110.2 230.5 110.2 c
+7.5 110.2 l
+4.1832 110.2 1.5 107.5168 1.5 104.2 c
+1.5 84.2 l
+1.5 80.8832 4.1832 78.2 7.5 78.2 c
+h
+f*
+Q
+.298039 .4 .521569 rg
+n
+6 80 m
+229 80 l
+232.3168 80 235 82.6832 235 86 c
+235 106 l
+235 109.3168 232.3168 112 229 112 c
+6 112 l
+2.6832 112 0 109.3168 0 106 c
+0 86 l
+0 82.6832 2.6832 80 6 80 c
+h
+f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 12 98 Tm (SQL / BI analyst) Tj T* ET
+BT /F1 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 12 87 Tm (structured data: policies, claims, billing) Tj T* ET
+q
+.298039 .4 .521569 RG
+.298039 .4 .521569 rg
+1.8 w
+n 242 96 m 327.2 96 l S
+[] 0 d
+n 332 96 m 326.4736 98.33651 l 326.4736 93.66349 l h
+f*
+Q
+q
+0 0 0 rg
+/gRLs1 gs
+n
+7.5 38.2 m
+230.5 38.2 l
+233.8168 38.2 236.5 40.8832 236.5 44.2 c
+236.5 64.2 l
+236.5 67.5168 233.8168 70.2 230.5 70.2 c
+7.5 70.2 l
+4.1832 70.2 1.5 67.5168 1.5 64.2 c
+1.5 44.2 l
+1.5 40.8832 4.1832 38.2 7.5 38.2 c
+h
+f*
+Q
+.360784 .478431 .4 rg
+n
+6 40 m
+229 40 l
+232.3168 40 235 42.6832 235 46 c
+235 66 l
+235 69.3168 232.3168 72 229 72 c
+6 72 l
+2.6832 72 0 69.3168 0 66 c
+0 46 l
+0 42.6832 2.6832 40 6 40 c
+h
+f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 12 58 Tm (Document reviewer) Tj T* ET
+BT /F1 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 12 47 Tm (unstructured policy contracts, exclusions) Tj T* ET
+q
+.360784 .478431 .4 RG
+.360784 .478431 .4 rg
+1.8 w
+n 242 56 m 327.2 56 l S
+[] 0 d
+n 332 56 m 326.4736 58.33651 l 326.4736 53.66349 l h
+f*
+Q
+q
+0 0 0 rg
+/gRLs1 gs
+n
+7.5 -1.8 m
+230.5 -1.8 l
+233.8168 -1.8 236.5 .8832 236.5 4.2 c
+236.5 24.2 l
+236.5 27.5168 233.8168 30.2 230.5 30.2 c
+7.5 30.2 l
+4.1832 30.2 1.5 27.5168 1.5 24.2 c
+1.5 4.2 l
+1.5 .8832 4.1832 -1.8 7.5 -1.8 c
+h
+f*
+Q
+.643137 .458824 .317647 rg
+n
+6 0 m
+229 0 l
+232.3168 0 235 2.6832 235 6 c
+235 26 l
+235 29.3168 232.3168 32 229 32 c
+6 32 l
+2.6832 32 0 29.3168 0 26 c
+0 6 l
+0 2.6832 2.6832 0 6 0 c
+h
+f*
+1 1 1 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 12 18 Tm (Data engineer) Tj T* ET
+BT /F1 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 12 7 Tm (data-quality pipelines and failures) Tj T* ET
+q
+.643137 .458824 .317647 RG
+.643137 .458824 .317647 rg
+1.8 w
+n 242 16 m 327.2 16 l S
+[] 0 d
+n 332 16 m 326.4736 18.33651 l 326.4736 13.66349 l h
+f*
+Q
+q
+0 0 0 rg
+/gRLs1 gs
+n
+347.5 -1.8 m
+513.5 -1.8 l
+517.9224 -1.8 521.5 1.7776 521.5 6.2 c
+521.5 102.2 l
+521.5 106.6224 517.9224 110.2 513.5 110.2 c
+347.5 110.2 l
+343.0776 110.2 339.5 106.6224 339.5 102.2 c
+339.5 6.2 l
+339.5 1.7776 343.0776 -1.8 347.5 -1.8 c
+h
+f*
+Q
+.419608 .392157 .470588 rg
+n
+346 0 m
+512 0 l
+516.4224 0 520 3.5776 520 8 c
+520 104 l
+520 108.4224 516.4224 112 512 112 c
+346 112 l
+341.5776 112 338 108.4224 338 104 c
+338 8 l
+338 3.5776 341.5776 0 346 0 c
+h
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 387.145 72 Tm (ONE NATURAL-) Tj T* ET
+BT 1 0 0 1 397.529 58 Tm (LANGUAGE) Tj T* ET
+BT 1 0 0 1 384.692 44 Tm (CONVERSATION) Tj T* ET
+BT /F1 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 385.192 28 Tm (no ticket queue, no waiting) Tj T* ET
+Q
+q
+1 0 0 1 43.2 370.4 cm
+Q
+q
+1 0 0 1 43.2 351.4 cm
+q
+.168627 .203922 .254902 rg
+BT 1 0 0 1 0 7 Tm /F2 12 Tf 19 TL (Three capabilities at a glance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 43.2 196.4 cm
+q
+.168627 .203922 .254902 rg
+n 0 147 525.6 -27 re f*
+.298039 .4 .521569 rg
+n 0 120 130 -40 re f*
+.360784 .478431 .4 rg
+n 0 80 130 -40 re f*
+.643137 .458824 .317647 rg
+n 0 40 130 -40 re f*
+.909804 .929412 .94902 rg
+n 130 120 395.6 -40 re f*
+.917647 .941176 .921569 rg
+n 130 80 395.6 -40 re f*
+.952941 .921569 .890196 rg
+n 130 40 395.6 -40 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 128 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Capability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 128 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Engine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289 128 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Grounded in) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 94.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Self-Service Analytics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 94 cm
+q
+.247059 .290196 .352941 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Cortex Analyst \(text-to-SQL\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289 88 cm
+q
+BT 1 0 0 1 0 16 Tm 12 TL /F3 8 Tf .247059 .290196 .352941 rg (ANALYTICS_SEMANTIC_VIEW) Tj /F1 8.5 Tf  T* (policies, claims, billing, agents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 54.5 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11 TL /F2 8.5 Tf 1 1 1 rg (Document Q) Tj (&) Tj (A) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 54 cm
+q
+.247059 .290196 .352941 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Cortex Search Service \(RAG\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289 48 cm
+q
+BT 1 0 0 1 0 16 Tm 12 TL /F3 8 Tf .247059 .290196 .352941 rg (POLICY_DOCUMENT_SEARCH_SVC) Tj /F1 8.5 Tf  T* (policy contracts, exclusion clauses) Tj T* ET
+Q
+Q
+q
+1 0 0 1 9 14.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Data Quality Root Cause) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 14 cm
+q
+.247059 .290196 .352941 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Cortex Analyst \(text-to-SQL\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 289 8 cm
+q
+BT 1 0 0 1 0 16 Tm 12 TL /F3 8 Tf .247059 .290196 .352941 rg (DQ_SEMANTIC_VIEW) Tj /F1 8.5 Tf  T* (rules, results, scores, lineage) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+1 1 1 RG
+.6 w
+n 0 80 m 525.6 80 l S
+n 0 40 m 525.6 40 l S
+Q
+Q
+Q
+ 
 
->> 
-  /Type /Page
->>
+endstream
 endobj
 6 0 obj
 <<
-/Contents 12 0 R /MediaBox [ 0 0 612 792 ] /Parent 10 0 R /Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca .1
->>
->> /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
 >>
 endobj
 7 0 obj
 <<
-/Contents 13 0 R /MediaBox [ 0 0 612 792 ] /Parent 10 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/PageMode /UseNone /Pages 10 0 R /Type /Catalog
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Author () /CreationDate (D:20260923094606+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260923094606+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Unified Enterprise AI Agents Platform - Architecture Documentation) /Trapped /False
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Count 3 /Kids [ 5 0 R 6 0 R 7 0 R ] /Type /Pages
+/Contents 11 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 1 0 R
 >>
 endobj
 11 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3244
+/Length 23289
 >>
 stream
-Gb!#]95iQU'#*[5e7kTb/;F*KR@E2\Z<hdGfN,9pX;:n);_hu6dO(r(%*XdiWbt"3;R)3$(.$/^ZKp'6<HWG@JW'Pqq&=/OhQGf0Y7)8'eJafs,co;LA2Uuk3DB==Hf/jE"J"LNah["7Ch=OtCJTOO1<+\i@T`XcF*QX';Eu:`i_8U0?)rC<^mtIIZW:bko5UJB^Od&W=\GgVfQrOX"=bX]mrP9<bgY"H6sN@)+!Zq"d&rFf"&t&34Vu3lOjK];a,#sZDEpULL=U`>,lPO+,=M8>`kUA8Ss:pEb#pW$>(`_5D!f=<OL&DHip=HN9bhls1RcEN3\$5BR7c9#QG?1U&$DUgcur\fi%]*Dcnh,um*0;Yg^l==6o-[XJkVQ?HsfHp]Nn*Pd"o;od_5eEBfkg;7,G(lP'l5]lg!)r:EV21>_=7qk0^c+J,i&dk_X'np?$ME-O:VSN?+eHlC/pD8fa!DB]Q_J#pa$#]4TtU(FQA2dPe]Ii[1n5EQ:*AS.HcI6R/5XFY*XY8pm]H/UR)X<+lSQI6&%=iSM%2];Vc#G*nE\3kdk_W^,3fLL=3E'&Tn%OD,m*CBS<@5SK4>RunJ0>t:QpjeE6[>4sp5JfB;2T@scK/,0Wt2G&W*=-R7Bff$h->?5A]oJpfi^a-:@q55cH-h.Y9A5umi'hK:\ne@CZ33,[HR"j-P0=J&lo`qRIWVP0\jr"('$-V5r-mCBcq-5>.Tc!t9N*;pKB_3j4?5Cq*;T2M@_mk/^8%U>[%BCc#*m4qM0\jK6S>Pq1@SDqNZ%5]&a2I4m)0'S=8QnE7!kuY<"6:>)Abl(C)ZCVlEF)W7?N>QXS7^lc#dYq61/?GZ1+p9e3!loFIAi=-4G'&+eIl6G^eIpbE5)e0UjD7h4e85$3h;*TA`lRaJ"2uMOo.0p59foC?J['/*T^F/"HB#lg!ZI)NcOXn)tO`?bU3K*?ifarr%q;"41bRSU6bF+gr.!SCFL,0Tqd$X6*q[.,+8BbFVp7=nN>tQ(AP+<j;JM&Lggq+#1^Ag!ZDZ<!,rkdpO65N[[[n>!(Am]L4pri_@]!-AT\+HeuV=/XYI)!MU9]e0jT8;"NsiM%=dF$q8X]ZR`=*u<a%N`_Z,+ED:.JB)8gn#:8fK3[Wm`\"03-=%/JpH(Lk6#Wpp`@&g2)^J8t^Ol(8U+TT2pXQj&MAknGK/Rh7FJKq^`8M9tUJ@5,Bgm<1dPBT3>*Dp6LLdc\:poQ=4^=^78s_c0T%(1V1IAZ##[I9@B^(96+5No;<6UHH^R1h^mC/#'P$ds,M3<lN>ebmi`XEFC%<9MH]mJmHt)I$^a&o["nsUGh-alAPsla^(F"Jk,;nWG_<5"lI4n9!Sn;fFY2<c<A%2LR(r,6.#knOr1SkK"S=U1sS##/M8.UUKa[[D<s@u<mlN@24--?T*1BV;rOjGm_ZS"Bm;nB$WEcDA3CDoF!>MhBiQ78VS:*'BAgV1JqUekH?8#["3uJ`\T(/,RiS>6ZGl"Y,fT0.>ef!6?0eh?pM9%!5\O+c(m-o?^S2FM6Veji<3IQ2LOB"7rEJABiIgf!&`<&?,"A==F6dsROAj?73(f:<X;k?u-7.I7PnEU9:Xeg9,e>h70q2]RNf]+^KLY1'M_rX94%do!ml0#DZP?tXkkiWd'-7m>gN^)bGZ3EQ>M[];jnTCOG?hZ&,fL)@?Ppt0cDdB?WoSQTcD3frR%5p4emrrYCl,[`_Q\b<6BY`sOV)HNktF-s385nJZX>BZBZ:sqW?'RdeAOi*et-PuCCA(;F)%S7Suh'rr@t<n/1OI?cD[PU\li6QENG.rUkq!&Bb]4]/KMai8_iMI+a\Op>0DUHDF`b+:(d?@-\cLdbs&(tVa%R(qaKq%=kJX'P_0,JSb&5#i&//1Kf]5rXtDlKM6Fb9D&d-JH\PB^]J)P+^goFu7#VleR&7mZ_9`m;-;%6E@g3U:l8'DX(AlF-;55)1g-kfU',B@Zd8iaCNE=H5pJ*[dD[HNZ]59/^PMd7*n;BI!M[oZ*!.NT+^[>T=mmH!uORI>-pBJ/%)VF?sl?*>Xfn!H>5qa/'M]q<)Meb_WCd9WYTU-GdZ3P^/J6k1%fDC[(/E/f#GcumHO5R0FZtg%mBu)EW@$_">q*M;9$hefA8*fco/hPet.Y4k"UE"manV._08);Ms]B[277_l/2?rnR\=3gpEJj_P*2j5<8c.mnq!;.D]Gou9u+6fLe]',5.#"TO>dWlAf]SH+pkQ@1kh-(1IQligQc:iM#TKYWP"aU^B%Es)"F1r0+@::c>bXE')Jmcl.Qu`XVMt/%4l0Sj%c>&10lbqu(gS0&-^bN7C3_WESr>r*hG*p'.^%m)0ZOYr1"Q=0IE&N;ep/H\Qfu(<dZ52JXH$D&1*R,Rb*@`NYcgu6Ad0>-o#:uan`Q_(<RRgX([Rd\$Rp*ghDQ4S*V3aj!m0b(h5,2`4/Z"kL94u"A`EFTXkFQN2q@>DB:^;o.AI8t%!o-N`n!_6J.W;H0d_f0^'o=bJe&]"6>9YP(']X=Q6bI8Y,:'USBI\\mOkPXK(1L!LXRdC9/K$#^&&\W]-8;B[I0=9CHOc6s:)X3-L[u0=?`lRu0$b<nI1R"K(1J-4-cXj1r;EPTqiclU=D(O@<19<Vr:n2*kEF)ijm)KUq(kB6pr[$dM-I5fNjlXaca\T(?+c)V!+457a$VEriOMl%^?SlW:[D\<D)[+A\f!#>+,RkH&?@fj-oQ:X&2ktCa:DWC&;X+YK!)![1IU&WBH'@gXX$AL'J:r@4?2+SUu+$&QQGE0\l<\9XZt0"Tp;F4#`S%3)U$Sdh%A"/d*nVCr%T+:Q#>/6^:e!b2"EBGPM7s>s$3A#kb5EYFfb&tq`6P45AiU`0^3@"?I&PgS6V8Z\c6^$mu)R[h-ddZA<ZonT\lnY`;YYJ:02SmC"Y>]%rP;7gb)4N6tp1QlP/*I?eR"M>gICj/ZO2L\%Cs-#C"Yk8%NlP#AfgCr`*?8VP`1FQ7u[;0@,)SSK;-d\N9P'H&eXQT2/8^h0/4$F\R?qnm6PDiMPLs)=``%]eedbl\W>kC)?RnrsQ_mrX\m.*qYNiao8i._]l[G"shglbN8UC\4?N4pO)mXG'a)`QZjO35Q,bG^-X2!09?//jm)I-["f.#_@H?s]ek=7l$?3.SX4V._(j%mS7hgC6Ki'lkhX2k6DrJ4'K9-Cmo"1!)<D%8T^j(4B<i=i*FYu<])V)?5:ZI%=,$LTCYm55D[eDt+&k2$Q2~>endstream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.298039 .4 .521569 rg
+n 0 785 122.9 7 re f*
+.360784 .478431 .4 rg
+n 122.4 785 122.9 7 re f*
+.643137 .458824 .317647 rg
+n 244.8 785 122.9 7 re f*
+.419608 .392157 .470588 rg
+n 367.2 785 122.9 7 re f*
+.545098 .360784 .403922 rg
+n 489.6 785 122.9 7 re f*
+.298039 .4 .521569 rg
+n 0 0 122.9 3 re f*
+.360784 .478431 .4 rg
+n 122.4 0 122.9 3 re f*
+.643137 .458824 .317647 rg
+n 244.8 0 122.9 3 re f*
+.419608 .392157 .470588 rg
+n 367.2 0 122.9 3 re f*
+.545098 .360784 .403922 rg
+n 489.6 0 122.9 3 re f*
+BT /F1 7.5 Tf 9 TL ET
+.419608 .454902 .501961 rg
+BT 1 0 0 1 43.2 16 Tm (Ansura  -  Architecture Documentation) Tj T* ET
+BT 1 0 0 1 545.0325 16 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 43.2 725.4 cm
+q
+.419608 .392157 .470588 rg
+n 0 27 26 -27 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 5.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 3.386 0 Td (2) Tj T* -3.386 0 Td ET
+Q
+Q
+q
+1 0 0 1 36 4 cm
+q
+.168627 .203922 .254902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (High-level architecture) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.419608 .392157 .470588 RG
+1.2 w
+n 26 0 m 525.6 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 43.2 715.4 cm
+Q
+q
+1 0 0 1 43.2 135.4 cm
+.945098 .960784 .976471 rg
+.541176 .592157 .658824 RG
+1.4 w
+[5 3] 0 d
+n
+14 26 m
+506 26 l
+513.7392 26 520 32.2608 520 40 c
+520 488 l
+520 495.7392 513.7392 502 506 502 c
+14 502 l
+6.2608 502 0 495.7392 0 488 c
+0 40 l
+0 32.2608 6.2608 26 14 26 c
+h
+B*
+[] 0 d
+1 1 1 rg
+.541176 .592157 .658824 RG
+1 w
+n
+98.6926 19 m
+421.3074 19 l
+425.177 19 428.3074 22.1304 428.3074 26 c
+428.3074 26 l
+428.3074 29.8696 425.177 33 421.3074 33 c
+98.6926 33 l
+94.823 33 91.6926 29.8696 91.6926 26 c
+91.6926 26 l
+91.6926 22.1304 94.823 19 98.6926 19 c
+h
+B*
+.290196 .333333 .407843 rg
+BT /F2 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 101.6926 23.6 Tm (SNOWFLAKE ACCOUNT  |  ONE GOVERNANCE BOUNDARY  |  NO DATA LEAVES THE ACCOUNT) Tj T* ET
+q
+0 0 0 rg
+/gRLs0 gs
+n
+23.5 530.2 m
+248.5 530.2 l
+251.8168 530.2 254.5 532.8832 254.5 536.2 c
+254.5 568.2 l
+254.5 571.5168 251.8168 574.2 248.5 574.2 c
+23.5 574.2 l
+20.1832 574.2 17.5 571.5168 17.5 568.2 c
+17.5 536.2 l
+17.5 532.8832 20.1832 530.2 23.5 530.2 c
+h
+f*
+Q
+.247059 .290196 .352941 rg
+n
+22 532 m
+247 532 l
+250.3168 532 253 534.6832 253 538 c
+253 570 l
+253 573.3168 250.3168 576 247 576 c
+22 576 l
+18.6832 576 16 573.3168 16 570 c
+16 538 l
+16 534.6832 18.6832 532 22 532 c
+h
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 96.985 557 Tm (Business Users) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 84.895 545 Tm (Ask questions in plain English) Tj T* ET
+q
+0 0 0 rg
+/gRLs0 gs
+n
+274.5 530.2 m
+499.5 530.2 l
+502.8168 530.2 505.5 532.8832 505.5 536.2 c
+505.5 568.2 l
+505.5 571.5168 502.8168 574.2 499.5 574.2 c
+274.5 574.2 l
+271.1832 574.2 268.5 571.5168 268.5 568.2 c
+268.5 536.2 l
+268.5 532.8832 271.1832 530.2 274.5 530.2 c
+h
+f*
+Q
+.545098 .360784 .403922 rg
+n
+273 532 m
+498 532 l
+501.3168 532 504 534.6832 504 538 c
+504 570 l
+504 573.3168 501.3168 576 498 576 c
+273 576 l
+269.6832 576 267 573.3168 267 570 c
+267 538 l
+267 534.6832 269.6832 532 273 532 c
+h
+f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 328.27 557 Tm (MCP-compatible Clients) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+BT 1 0 0 1 341.3138 545 Tm (e.g. Claude Connectors UI) Tj T* ET
+q
+0 0 0 rg
+/gRLs0 gs
+n
+23.5 428.2 m
+248.5 428.2 l
+251.8168 428.2 254.5 430.8832 254.5 434.2 c
+254.5 468.2 l
+254.5 471.5168 251.8168 474.2 248.5 474.2 c
+23.5 474.2 l
+20.1832 474.2 17.5 471.5168 17.5 468.2 c
+17.5 434.2 l
+17.5 430.8832 20.1832 428.2 23.5 428.2 c
+h
+f*
+Q
+q
+n 22 430 m 247 430 l 250.3168 430 253 432.6832 253 436 c 253 470 l 253 473.3168 250.3168 476 247 476 c 22 476 l 18.6832 476 16 473.3168 16 470 c 16 436 l 16 432.6832 18.6832 430 22 430 c h W* n
+.909804 .941176 .937255 rg
+n 16 430 237 46 re f*
+.305882 .486275 .486275 rg
+n 16 457 237 19 re f*
+Q
+.305882 .486275 .486275 RG
+1 w
+n
+22 430 m
+247 430 l
+250.3168 430 253 432.6832 253 436 c
+253 470 l
+253 473.3168 250.3168 476 247 476 c
+22 476 l
+18.6832 476 16 473.3168 16 470 c
+16 436 l
+16 432.6832 18.6832 430 22 430 c
+h
+S
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 72.6285 463.695 Tm (Streamlit-in-Snowflake Chat UI) Tj T* ET
+.247059 .290196 .352941 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 73.9955 446.35 Tm (Answer  +  tool used  +  SQL / citations) Tj T* ET
+BT 1 0 0 1 108.04 435.75 Tm (feedback logging) Tj T* ET
+q
+0 0 0 rg
+/gRLs0 gs
+n
+274.5 428.2 m
+499.5 428.2 l
+502.8168 428.2 505.5 430.8832 505.5 434.2 c
+505.5 468.2 l
+505.5 471.5168 502.8168 474.2 499.5 474.2 c
+274.5 474.2 l
+271.1832 474.2 268.5 471.5168 268.5 468.2 c
+268.5 434.2 l
+268.5 430.8832 271.1832 428.2 274.5 428.2 c
+h
+f*
+Q
+q
+n 273 430 m 498 430 l 501.3168 430 504 432.6832 504 436 c 504 470 l 504 473.3168 501.3168 476 498 476 c 273 476 l 269.6832 476 267 473.3168 267 470 c 267 436 l 267 432.6832 269.6832 430 273 430 c h W* n
+.94902 .913725 .921569 rg
+n 267 430 237 46 re f*
+.545098 .360784 .403922 rg
+n 267 457 237 19 re f*
+Q
+.545098 .360784 .403922 RG
+1 w
+n
+273 430 m
+498 430 l
+501.3168 430 504 432.6832 504 436 c
+504 470 l
+504 473.3168 501.3168 476 498 476 c
+273 476 l
+269.6832 476 267 473.3168 267 470 c
+267 436 l
+267 432.6832 269.6832 430 273 430 c
+h
+S
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 320.084 463.695 Tm (ENTERPRISE_AI_MCP_SERVER) Tj T* ET
+.247059 .290196 .352941 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 345.0295 446.35 Tm (Exposes the agent as one) Tj T* ET
+BT 1 0 0 1 332.02 435.75 Tm (CORTEX_AGENT_RUN MCP tool) Tj T* ET
+q
+.247059 .290196 .352941 RG
+.247059 .290196 .352941 rg
+1.6 w
+n 134.5 532 m 134.5 480.8 l S
+[] 0 d
+n 134.5 476 m 136.8365 481.5264 l 132.1635 481.5264 l h
+f*
+Q
+q
+.545098 .360784 .403922 RG
+.545098 .360784 .403922 rg
+1.6 w
+n 385.5 532 m 385.5 480.8 l S
+[] 0 d
+n 385.5 476 m 387.8365 481.5264 l 383.1635 481.5264 l h
+f*
+Q
+q
+0 0 0 rg
+/gRLs0 gs
+n
+25.5 352.2 m
+497.5 352.2 l
+501.9224 352.2 505.5 355.7776 505.5 360.2 c
+505.5 396.2 l
+505.5 400.6224 501.9224 404.2 497.5 404.2 c
+25.5 404.2 l
+21.0776 404.2 17.5 400.6224 17.5 396.2 c
+17.5 360.2 l
+17.5 355.7776 21.0776 352.2 25.5 352.2 c
+h
+f*
+Q
+q
+n 24 354 m 496 354 l 500.4224 354 504 357.5776 504 362 c 504 398 l 504 402.4224 500.4224 406 496 406 c 24 406 l 19.5776 406 16 402.4224 16 398 c 16 362 l 16 357.5776 19.5776 354 24 354 c h W* n
+.42 .47 .56 rg
+n 16 354 13.2 52 re f*
+.423333 .467692 .557692 rg
+n 28.2 354 13.2 52 re f*
+.426667 .465385 .555385 rg
+n 40.4 354 13.2 52 re f*
+.43 .463077 .553077 rg
+n 52.6 354 13.2 52 re f*
+.433333 .460769 .550769 rg
+n 64.8 354 13.2 52 re f*
+.436667 .458462 .548462 rg
+n 77 354 13.2 52 re f*
+.44 .456154 .546154 rg
+n 89.2 354 13.2 52 re f*
+.443333 .453846 .543846 rg
+n 101.4 354 13.2 52 re f*
+.446667 .451538 .541538 rg
+n 113.6 354 13.2 52 re f*
+.45 .449231 .539231 rg
+n 125.8 354 13.2 52 re f*
+.453333 .446923 .536923 rg
+n 138 354 13.2 52 re f*
+.456667 .444615 .534615 rg
+n 150.2 354 13.2 52 re f*
+.46 .442308 .532308 rg
+n 162.4 354 13.2 52 re f*
+.463333 .44 .53 rg
+n 174.6 354 13.2 52 re f*
+.466667 .437692 .527692 rg
+n 186.8 354 13.2 52 re f*
+.47 .435385 .525385 rg
+n 199 354 13.2 52 re f*
+.473333 .433077 .523077 rg
+n 211.2 354 13.2 52 re f*
+.476667 .430769 .520769 rg
+n 223.4 354 13.2 52 re f*
+.48 .428462 .518462 rg
+n 235.6 354 13.2 52 re f*
+.483333 .426154 .516154 rg
+n 247.8 354 13.2 52 re f*
+.486667 .423846 .513846 rg
+n 260 354 13.2 52 re f*
+.49 .421538 .511538 rg
+n 272.2 354 13.2 52 re f*
+.493333 .419231 .509231 rg
+n 284.4 354 13.2 52 re f*
+.496667 .416923 .506923 rg
+n 296.6 354 13.2 52 re f*
+.5 .414615 .504615 rg
+n 308.8 354 13.2 52 re f*
+.503333 .412308 .502308 rg
+n 321 354 13.2 52 re f*
+.506667 .41 .5 rg
+n 333.2 354 13.2 52 re f*
+.51 .407692 .497692 rg
+n 345.4 354 13.2 52 re f*
+.513333 .405385 .495385 rg
+n 357.6 354 13.2 52 re f*
+.516667 .403077 .493077 rg
+n 369.8 354 13.2 52 re f*
+.52 .400769 .490769 rg
+n 382 354 13.2 52 re f*
+.523333 .398462 .488462 rg
+n 394.2 354 13.2 52 re f*
+.526667 .396154 .486154 rg
+n 406.4 354 13.2 52 re f*
+.53 .393846 .483846 rg
+n 418.6 354 13.2 52 re f*
+.533333 .391538 .481538 rg
+n 430.8 354 13.2 52 re f*
+.536667 .389231 .479231 rg
+n 443 354 13.2 52 re f*
+.54 .386923 .476923 rg
+n 455.2 354 13.2 52 re f*
+.543333 .384615 .474615 rg
+n 467.4 354 13.2 52 re f*
+.546667 .382308 .472308 rg
+n 479.6 354 13.2 52 re f*
+.55 .38 .47 rg
+n 491.8 354 13.2 52 re f*
+Q
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 193.989 387 Tm (ENTERPRISE_AI_AGENT) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 166.8582 375 Tm (Snowflake Cortex Agent  -  auto-orchestration & routing) Tj T* ET
+BT 1 0 0 1 185.6606 364 Tm (Decides per question which tool\(s\) to invoke) Tj T* ET
+q
+.247059 .290196 .352941 RG
+.247059 .290196 .352941 rg
+1.6 w
+n 134.5 430 m 134.5 410.8 l S
+[] 0 d
+n 134.5 406 m 136.8365 411.5264 l 132.1635 411.5264 l h
+f*
+Q
+q
+.545098 .360784 .403922 RG
+.545098 .360784 .403922 rg
+1.6 w
+n 385.5 430 m 385.5 410.8 l S
+[] 0 d
+n 385.5 406 m 387.8365 411.5264 l 383.1635 411.5264 l h
+f*
+Q
+q
+0 0 0 rg
+/gRLs0 gs
+n
+23.5 238.2 m
+164.8333 238.2 l
+168.1501 238.2 170.8333 240.8832 170.8333 244.2 c
+170.8333 320.2 l
+170.8333 323.5168 168.1501 326.2 164.8333 326.2 c
+23.5 326.2 l
+20.1832 326.2 17.5 323.5168 17.5 320.2 c
+17.5 244.2 l
+17.5 240.8832 20.1832 238.2 23.5 238.2 c
+h
+f*
+Q
+q
+n 22 240 m 163.3333 240 l 166.6501 240 169.3333 242.6832 169.3333 246 c 169.3333 322 l 169.3333 325.3168 166.6501 328 163.3333 328 c 22 328 l 18.6832 328 16 325.3168 16 322 c 16 246 l 16 242.6832 18.6832 240 22 240 c h W* n
+.909804 .929412 .94902 rg
+n 16 240 153.3333 88 re f*
+.298039 .4 .521569 rg
+n 16 308 153.3333 20 re f*
+Q
+.298039 .4 .521569 RG
+1 w
+n
+22 240 m
+163.3333 240 l
+166.6501 240 169.3333 242.6832 169.3333 246 c
+169.3333 322 l
+169.3333 325.3168 166.6501 328 163.3333 328 c
+22 328 l
+18.6832 328 16 325.3168 16 322 c
+16 246 l
+16 242.6832 18.6832 240 22 240 c
+h
+S
+1 1 1 rg
+BT /F2 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 36.39267 315.261 Tm (Self-Service Analytics Agent) Tj T* ET
+.247059 .290196 .352941 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 69.25947 287.68 Tm (Cortex Analyst) Tj T* ET
+BT 1 0 0 1 50.24427 276.88 Tm (text-to-SQL on a governed) Tj T* ET
+BT 1 0 0 1 70.06227 266.08 Tm (semantic view) Tj T* ET
+BT 1 0 0 1 51.25587 255.28 Tm (loss ratio, premium, churn) Tj T* ET
+q
+.298039 .4 .521569 RG
+.298039 .4 .521569 rg
+1.6 w
+n 92.66667 354 m 92.66667 332.8 l S
+[] 0 d
+n 92.66667 328 m 95.00318 333.5264 l 90.33016 333.5264 l h
+f*
+Q
+q
+0 0 0 rg
+/gRLs0 gs
+n
+23.5 122.2 m
+164.8333 122.2 l
+168.1501 122.2 170.8333 124.8832 170.8333 128.2 c
+170.8333 208.2 l
+170.8333 211.5168 168.1501 214.2 164.8333 214.2 c
+23.5 214.2 l
+20.1832 214.2 17.5 211.5168 17.5 208.2 c
+17.5 128.2 l
+17.5 124.8832 20.1832 122.2 23.5 122.2 c
+h
+f*
+Q
+q
+n 22 124 m 163.3333 124 l 166.6501 124 169.3333 126.6832 169.3333 130 c 169.3333 210 l 169.3333 213.3168 166.6501 216 163.3333 216 c 22 216 l 18.6832 216 16 213.3168 16 210 c 16 130 l 16 126.6832 18.6832 124 22 124 c h W* n
+.909804 .929412 .94902 rg
+n 16 124 153.3333 92 re f*
+.298039 .4 .521569 rg
+n 16 197 153.3333 19 re f*
+Q
+.298039 .4 .521569 RG
+1 w
+n
+22 124 m
+163.3333 124 l
+166.6501 124 169.3333 126.6832 169.3333 130 c
+169.3333 210 l
+169.3333 213.3168 166.6501 216 163.3333 216 c
+22 216 l
+18.6832 216 16 213.3168 16 210 c
+16 130 l
+16 126.6832 18.6832 124 22 124 c
+h
+S
+1 1 1 rg
+BT /F2 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 40.79407 204.157 Tm (ANALYTICS_SEMANTIC_VIEW) Tj T* ET
+.247059 .290196 .352941 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 55.09992 173.375 Tm (over ANALYTICS schema) Tj T* ET
+BT 1 0 0 1 41.19642 163.275 Tm (CUSTOMERS, POLICIES, CLAIMS) Tj T* ET
+BT 1 0 0 1 65.03192 153.175 Tm (BILLING, AGENTS) Tj T* ET
+BT 1 0 0 1 62.32142 143.075 Tm (AT_RISK_POLICIES) Tj T* ET
+q
+.298039 .4 .521569 RG
+.298039 .4 .521569 rg
+1.6 w
+n 92.66667 240 m 92.66667 220.8 l S
+[] 0 d
+n 92.66667 216 m 95.00318 221.5264 l 90.33016 221.5264 l h
+f*
+Q
+q
+0 0 0 rg
+/gRLs0 gs
+n
+190.8333 238.2 m
+332.1667 238.2 l
+335.4835 238.2 338.1667 240.8832 338.1667 244.2 c
+338.1667 320.2 l
+338.1667 323.5168 335.4835 326.2 332.1667 326.2 c
+190.8333 326.2 l
+187.5165 326.2 184.8333 323.5168 184.8333 320.2 c
+184.8333 244.2 l
+184.8333 240.8832 187.5165 238.2 190.8333 238.2 c
+h
+f*
+Q
+q
+n 189.3333 240 m 330.6667 240 l 333.9835 240 336.6667 242.6832 336.6667 246 c 336.6667 322 l 336.6667 325.3168 333.9835 328 330.6667 328 c 189.3333 328 l 186.0165 328 183.3333 325.3168 183.3333 322 c 183.3333 246 l 183.3333 242.6832 186.0165 240 189.3333 240 c h W* n
+.917647 .941176 .921569 rg
+n 183.3333 240 153.3333 88 re f*
+.360784 .478431 .4 rg
+n 183.3333 308 153.3333 20 re f*
+Q
+.360784 .478431 .4 RG
+1 w
+n
+189.3333 240 m
+330.6667 240 l
+333.9835 240 336.6667 242.6832 336.6667 246 c
+336.6667 322 l
+336.6667 325.3168 333.9835 328 330.6667 328 c
+189.3333 328 l
+186.0165 328 183.3333 325.3168 183.3333 322 c
+183.3333 246 l
+183.3333 242.6832 186.0165 240 189.3333 240 c
+h
+S
+1 1 1 rg
+BT /F2 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 216.425 315.261 Tm (Document Q&A Agent) Tj T* ET
+.247059 .290196 .352941 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 223.9892 287.68 Tm (Cortex Search Service) Tj T* ET
+BT 1 0 0 1 220.5836 276.88 Tm (RAG with auto-managed) Tj T* ET
+BT 1 0 0 1 240.3908 266.08 Tm (embeddings) Tj T* ET
+BT 1 0 0 1 237.392 255.28 Tm (inline citations) Tj T* ET
+q
+.360784 .478431 .4 RG
+.360784 .478431 .4 rg
+1.6 w
+n 260 354 m 260 332.8 l S
+[] 0 d
+n 260 328 m 262.3365 333.5264 l 257.6635 333.5264 l h
+f*
+Q
+q
+0 0 0 rg
+/gRLs0 gs
+n
+190.8333 122.2 m
+332.1667 122.2 l
+335.4835 122.2 338.1667 124.8832 338.1667 128.2 c
+338.1667 208.2 l
+338.1667 211.5168 335.4835 214.2 332.1667 214.2 c
+190.8333 214.2 l
+187.5165 214.2 184.8333 211.5168 184.8333 208.2 c
+184.8333 128.2 l
+184.8333 124.8832 187.5165 122.2 190.8333 122.2 c
+h
+f*
+Q
+q
+n 189.3333 124 m 330.6667 124 l 333.9835 124 336.6667 126.6832 336.6667 130 c 336.6667 210 l 336.6667 213.3168 333.9835 216 330.6667 216 c 189.3333 216 l 186.0165 216 183.3333 213.3168 183.3333 210 c 183.3333 130 l 183.3333 126.6832 186.0165 124 189.3333 124 c h W* n
+.917647 .941176 .921569 rg
+n 183.3333 124 153.3333 92 re f*
+.360784 .478431 .4 rg
+n 183.3333 197 153.3333 19 re f*
+Q
+.360784 .478431 .4 RG
+1 w
+n
+189.3333 124 m
+330.6667 124 l
+333.9835 124 336.6667 126.6832 336.6667 130 c
+336.6667 210 l
+336.6667 213.3168 333.9835 216 330.6667 216 c
+189.3333 216 l
+186.0165 216 183.3333 213.3168 183.3333 210 c
+183.3333 130 l
+183.3333 126.6832 186.0165 124 189.3333 124 c
+h
+S
+1 1 1 rg
+BT /F2 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 198.0667 204.157 Tm (POLICY_DOCUMENT_SEARCH_SVC) Tj T* ET
+.247059 .290196 .352941 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 218.4715 173.375 Tm (over DOCUMENT_CHUNKS) Tj T* ET
+BT 1 0 0 1 204.737 163.275 Tm (chunked from POLICY_DOCUMENTS) Tj T* ET
+BT 1 0 0 1 228.2183 153.175 Tm (.CONTENT_TEXT via) Tj T* ET
+BT 1 0 0 1 198.0582 143.075 Tm (SPLIT_TEXT_RECURSIVE_CHARACTER) Tj T* ET
+q
+.360784 .478431 .4 RG
+.360784 .478431 .4 rg
+1.6 w
+n 260 240 m 260 220.8 l S
+[] 0 d
+n 260 216 m 262.3365 221.5264 l 257.6635 221.5264 l h
+f*
+Q
+q
+0 0 0 rg
+/gRLs0 gs
+n
+358.1667 238.2 m
+499.5 238.2 l
+502.8168 238.2 505.5 240.8832 505.5 244.2 c
+505.5 320.2 l
+505.5 323.5168 502.8168 326.2 499.5 326.2 c
+358.1667 326.2 l
+354.8499 326.2 352.1667 323.5168 352.1667 320.2 c
+352.1667 244.2 l
+352.1667 240.8832 354.8499 238.2 358.1667 238.2 c
+h
+f*
+Q
+q
+n 356.6667 240 m 498 240 l 501.3168 240 504 242.6832 504 246 c 504 322 l 504 325.3168 501.3168 328 498 328 c 356.6667 328 l 353.3499 328 350.6667 325.3168 350.6667 322 c 350.6667 246 l 350.6667 242.6832 353.3499 240 356.6667 240 c h W* n
+.952941 .921569 .890196 rg
+n 350.6667 240 153.3333 88 re f*
+.643137 .458824 .317647 rg
+n 350.6667 308 153.3333 20 re f*
+Q
+.643137 .458824 .317647 RG
+1 w
+n
+356.6667 240 m
+498 240 l
+501.3168 240 504 242.6832 504 246 c
+504 322 l
+504 325.3168 501.3168 328 498 328 c
+356.6667 328 l
+353.3499 328 350.6667 325.3168 350.6667 322 c
+350.6667 246 l
+350.6667 242.6832 353.3499 240 356.6667 240 c
+h
+S
+1 1 1 rg
+BT /F2 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 390.2074 315.261 Tm (Data Quality Agent) Tj T* ET
+.247059 .290196 .352941 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 403.9261 287.68 Tm (Cortex Analyst) Tj T* ET
+BT 1 0 0 1 390.1165 276.88 Tm (text-to-SQL root cause,) Tj T* ET
+BT 1 0 0 1 403.7245 266.08 Tm (column trends,) Tj T* ET
+BT 1 0 0 1 396.1249 255.28 Tm (downstream impact) Tj T* ET
+q
+.643137 .458824 .317647 RG
+.643137 .458824 .317647 rg
+1.6 w
+n 427.3333 354 m 427.3333 332.8 l S
+[] 0 d
+n 427.3333 328 m 429.6698 333.5264 l 424.9968 333.5264 l h
+f*
+Q
+q
+0 0 0 rg
+/gRLs0 gs
+n
+358.1667 122.2 m
+499.5 122.2 l
+502.8168 122.2 505.5 124.8832 505.5 128.2 c
+505.5 208.2 l
+505.5 211.5168 502.8168 214.2 499.5 214.2 c
+358.1667 214.2 l
+354.8499 214.2 352.1667 211.5168 352.1667 208.2 c
+352.1667 128.2 l
+352.1667 124.8832 354.8499 122.2 358.1667 122.2 c
+h
+f*
+Q
+q
+n 356.6667 124 m 498 124 l 501.3168 124 504 126.6832 504 130 c 504 210 l 504 213.3168 501.3168 216 498 216 c 356.6667 216 l 353.3499 216 350.6667 213.3168 350.6667 210 c 350.6667 130 l 350.6667 126.6832 353.3499 124 356.6667 124 c h W* n
+.952941 .921569 .890196 rg
+n 350.6667 124 153.3333 92 re f*
+.643137 .458824 .317647 rg
+n 350.6667 197 153.3333 19 re f*
+Q
+.643137 .458824 .317647 RG
+1 w
+n
+356.6667 124 m
+498 124 l
+501.3168 124 504 126.6832 504 130 c
+504 210 l
+504 213.3168 501.3168 216 498 216 c
+356.6667 216 l
+353.3499 216 350.6667 213.3168 350.6667 210 c
+350.6667 130 l
+350.6667 126.6832 353.3499 124 356.6667 124 c
+h
+S
+1 1 1 rg
+BT /F2 7.1 Tf 8.52 TL ET
+BT 1 0 0 1 390.4488 204.157 Tm (DQ_SEMANTIC_VIEW) Tj T* ET
+.247059 .290196 .352941 rg
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 383.4453 178.425 Tm (over DATA_QUALITY schema) Tj T* ET
+BT 1 0 0 1 386.3378 168.325 Tm (DQ_RULES, DQ_RESULTS) Tj T* ET
+BT 1 0 0 1 369.7271 158.225 Tm (DQ_COLUMN_HEALTH, DQ_SCORES) Tj T* ET
+BT 1 0 0 1 369.7303 148.125 Tm (VW_DQ_COLUMN_HEALTH_TRENDS) Tj T* ET
+BT 1 0 0 1 382.7336 138.025 Tm (DQ_DOWNSTREAM_IMPACT) Tj T* ET
+q
+.643137 .458824 .317647 RG
+.643137 .458824 .317647 rg
+1.6 w
+n 427.3333 240 m 427.3333 220.8 l S
+[] 0 d
+n 427.3333 216 m 429.6698 221.5264 l 424.9968 221.5264 l h
+f*
+Q
+q
+0 0 0 rg
+/gRLs0 gs
+n
+23.5 38.2 m
+181.5 38.2 l
+184.8168 38.2 187.5 40.8832 187.5 44.2 c
+187.5 94.2 l
+187.5 97.5168 184.8168 100.2 181.5 100.2 c
+23.5 100.2 l
+20.1832 100.2 17.5 97.5168 17.5 94.2 c
+17.5 44.2 l
+17.5 40.8832 20.1832 38.2 23.5 38.2 c
+h
+f*
+Q
+q
+n 22 40 m 180 40 l 183.3168 40 186 42.6832 186 46 c 186 96 l 186 99.3168 183.3168 102 180 102 c 22 102 l 18.6832 102 16 99.3168 16 96 c 16 46 l 16 42.6832 18.6832 40 22 40 c h W* n
+.945098 .921569 .878431 rg
+n 16 40 170 62 re f*
+.588235 .470588 .309804 rg
+n 16 83 170 19 re f*
+Q
+.588235 .470588 .309804 RG
+1 w
+n
+22 40 m
+180 40 l
+183.3168 40 186 42.6832 186 46 c
+186 96 l
+186 99.3168 183.3168 102 180 102 c
+22 102 l
+18.6832 102 16 99.3168 16 96 c
+16 46 l
+16 42.6832 18.6832 40 22 40 c
+h
+S
+1 1 1 rg
+BT /F2 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 47.9132 89.926 Tm (AGENT_INTERACTION_LOG) Tj T* ET
+.247059 .290196 .352941 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 62.29 64.35 Tm (Every question & answer) Tj T* ET
+BT 1 0 0 1 53.2355 53.75 Tm (+ helpful / not-helpful feedback) Tj T* ET
+q
+0 0 0 rg
+/gRLs0 gs
+n
+223.5 38.2 m
+499.5 38.2 l
+502.8168 38.2 505.5 40.8832 505.5 44.2 c
+505.5 94.2 l
+505.5 97.5168 502.8168 100.2 499.5 100.2 c
+223.5 100.2 l
+220.1832 100.2 217.5 97.5168 217.5 94.2 c
+217.5 44.2 l
+217.5 40.8832 220.1832 38.2 223.5 38.2 c
+h
+f*
+Q
+q
+n 222 40 m 498 40 l 501.3168 40 504 42.6832 504 46 c 504 96 l 504 99.3168 501.3168 102 498 102 c 222 102 l 218.6832 102 216 99.3168 216 96 c 216 46 l 216 42.6832 218.6832 40 222 40 c h W* n
+.945098 .921569 .878431 rg
+n 216 40 288 62 re f*
+.588235 .470588 .309804 rg
+n 216 83 288 19 re f*
+Q
+.588235 .470588 .309804 RG
+1 w
+n
+222 40 m
+498 40 l
+501.3168 40 504 42.6832 504 46 c
+504 96 l
+504 99.3168 501.3168 102 498 102 c
+222 102 l
+218.6832 102 216 99.3168 216 96 c
+216 46 l
+216 42.6832 218.6832 40 222 40 c
+h
+S
+1 1 1 rg
+BT /F2 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 290.3505 89.761 Tm (Snowflake Intelligence Dashboards) Tj T* ET
+.247059 .290196 .352941 rg
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 257.4696 69.52 Tm (VW_PORTFOLIO_RISK_DASHBOARD  |  VW_TREND_ANALYSIS) Tj T* ET
+BT 1 0 0 1 264.8544 59.12 Tm (VW_CHURN_TREND  |  VW_AGENT_ACCURACY_METRICS) Tj T* ET
+BT 1 0 0 1 294.618 48.72 Tm (Portfolio risk, trends, churn, agent accuracy) Tj T* ET
+q
+.588235 .470588 .309804 RG
+.588235 .470588 .309804 rg
+1.6 w
+n 186 69 m 211.2 69 l S
+[] 0 d
+n 216 69 m 210.4736 71.33651 l 210.4736 66.66349 l h
+f*
+Q
+q
+.588235 .470588 .309804 RG
+1.4 w
+[3 2.5] 0 d
+n 16 453 m 7 453 l S
+n 7 453 m 7 77 l S
+Q
+q
+.588235 .470588 .309804 RG
+.588235 .470588 .309804 rg
+1.4 w
+[3 2.5] 0 d
+n 7 77 m 12 77 l S
+[] 0 d
+n 16 77 m 11.3947 78.94709 l 11.3947 75.05291 l h
+f*
+Q
+.305882 .486275 .486275 rg
+n
+90.188 -2 m
+94.188 -2 l
+95.2936 -2 96.188 -1.1056 96.188 0 c
+96.188 4 l
+96.188 5.1056 95.2936 6 94.188 6 c
+90.188 6 l
+89.0824 6 88.188 5.1056 88.188 4 c
+88.188 0 l
+88.188 -1.1056 89.0824 -2 90.188 -2 c
+h
+f*
+.247059 .290196 .352941 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 99.188 -0.2 Tm (Interface) Tj T* ET
+.545098 .360784 .403922 rg
+n
+135.425 -2 m
+139.425 -2 l
+140.5306 -2 141.425 -1.1056 141.425 0 c
+141.425 4 l
+141.425 5.1056 140.5306 6 139.425 6 c
+135.425 6 l
+134.3194 6 133.425 5.1056 133.425 4 c
+133.425 0 l
+133.425 -1.1056 134.3194 -2 135.425 -2 c
+h
+f*
+.247059 .290196 .352941 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 144.425 -0.2 Tm (MCP) Tj T* ET
+.419608 .392157 .470588 rg
+n
+168.979 -2 m
+172.979 -2 l
+174.0846 -2 174.979 -1.1056 174.979 0 c
+174.979 4 l
+174.979 5.1056 174.0846 6 172.979 6 c
+168.979 6 l
+167.8734 6 166.979 5.1056 166.979 4 c
+166.979 0 l
+166.979 -1.1056 167.8734 -2 168.979 -2 c
+h
+f*
+.247059 .290196 .352941 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 177.979 -0.2 Tm (Orchestration) Tj T* ET
+.298039 .4 .521569 rg
+n
+228.993 -2 m
+232.993 -2 l
+234.0986 -2 234.993 -1.1056 234.993 0 c
+234.993 4 l
+234.993 5.1056 234.0986 6 232.993 6 c
+228.993 6 l
+227.8874 6 226.993 5.1056 226.993 4 c
+226.993 0 l
+226.993 -1.1056 227.8874 -2 228.993 -2 c
+h
+f*
+.247059 .290196 .352941 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 237.993 -0.2 Tm (Analytics) Tj T* ET
+.360784 .478431 .4 rg
+n
+275 -2 m
+279 -2 l
+280.1056 -2 281 -1.1056 281 0 c
+281 4 l
+281 5.1056 280.1056 6 279 6 c
+275 6 l
+273.8944 6 273 5.1056 273 4 c
+273 0 l
+273 -1.1056 273.8944 -2 275 -2 c
+h
+f*
+.247059 .290196 .352941 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 284 -0.2 Tm (Documents) Tj T* ET
+.643137 .458824 .317647 rg
+n
+328.399 -2 m
+332.399 -2 l
+333.5046 -2 334.399 -1.1056 334.399 0 c
+334.399 4 l
+334.399 5.1056 333.5046 6 332.399 6 c
+328.399 6 l
+327.2934 6 326.399 5.1056 326.399 4 c
+326.399 0 l
+326.399 -1.1056 327.2934 -2 328.399 -2 c
+h
+f*
+.247059 .290196 .352941 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 337.399 -0.2 Tm (Data quality) Tj T* ET
+.588235 .470588 .309804 rg
+n
+383.359 -2 m
+387.359 -2 l
+388.4646 -2 389.359 -1.1056 389.359 0 c
+389.359 4 l
+389.359 5.1056 388.4646 6 387.359 6 c
+383.359 6 l
+382.2534 6 381.359 5.1056 381.359 4 c
+381.359 0 l
+381.359 -1.1056 382.2534 -2 383.359 -2 c
+h
+f*
+.247059 .290196 .352941 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 392.359 -0.2 Tm (Observability) Tj T* ET
+Q
+q
+1 0 0 1 43.2 119.4 cm
+Q
+q
+1 0 0 1 43.2 84.9 cm
+q
+BT 1 0 0 1 0 26.5 Tm 11.5 TL /F1 8 Tf .419608 .454902 .501961 rg (Everything runs natively inside Snowflake: one platform, one governance boundary, no data leaves the account, and no external vector database or) Tj T* (orchestration service is required. The agent runtime sanitizes spaces and ampersands in tool names it returns \(logs, traces\):) Tj T* /F3 8 Tf (Self-Service_Analytics_Agent) Tj /F1 8 Tf (, ) Tj /F3 8 Tf (Document_Q_A_Agent) Tj /F1 8 Tf (, ) Tj /F3 8 Tf (Data_Quality_Agent) Tj /F1 8 Tf (.) Tj T* ET
+Q
+Q
+ 
+
+endstream
 endobj
 12 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 8204
+/Contents 13 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
-stream
-Gau0H>Beg[[XRDC^sfAY-YA2CDtBheC?&75:2IJ3Y4aD"7:p@1ALWc&A9ui&nRp_ZJhh%54__N;!?h-V`l?#R%j4EF1AG5*hq>\@hbDV0heT'JRX@rcV+s`[eTd7)8lAShRB72<V7G!!;60A,Z37_Db!Eh=[49_<;'3MD;Hm[C"ZJL;CGj8]]m,n0]>&m.C^Kjt<FnG@lEY@T$Q8-UW_^_#]#ZA2\H[+O\BI4.KksV`VGAUaGug]%[h.8($k'VG:5_<0_5:jcVqnE4O7%J2foJOmDtG9:kF9+7,#M163JKgO0bEVn\Z7Lg^;us4UEU8r&kUB#%D#B"HhHB53WCdODU`pAD:Tf\o1buL-YdbX/@QSkFtqg%=KNb1Ng(HaB6Wra1YY*D"g:t5LO6OD\t-$jIohh`X3!;65ZA,u.F"s9I8+XX[uE/j^$d(S4!p4>LG"tM@jjS'`(ZRsR6ho3hu+FliE"CbaCoO[0Jn/?L!%5A<!D'RG!2%?J&0]S^Bad@;Gj(oS(\4]?ui#KKGGOrV::sD4gn2$-+^#^0JkZBVlAXXfr`n\MQ'*'Fm4h9o@pmP7J"&mW+k>mNYf7_s+5b#*q\4+%uCK$J&/'PS*s>ecGn@#?':5g]qM8]*aR/oY,&JDD(Ta3j5;&X6:bl/.M./?8APCa$uo[rYIUt=%6AEjAYL2KFe@_tJVcgYCR^X:"O,s3HGuZaRtYP]0UPZ<g9oj<Sb)570$j#o6,,5*O,6;'Lmeam@$"htZ\3ERP.!E^*K4A6B?=HMh)EHZCj-/XVqR"\:[0D]C=H-K,G!5]bt<c%"m#5RQR-76WV?N'FDWfM'k#R3D@u!qZmoer2c4+f$8k(p(+P*`,,kUJN5]n@\_,)\4Ot6Y(2ZOb&fkA"e1P_Mi%Q>b`#nr58;8f;L8G!D<Z'^ob!W4f)*7A3fp#@oo'H;;mnZG<Nn*@gq#'DnU=B2mFac5L5Fha1^,R(&*KS`pE8f@2iYT1LG-5/2-6mXo*rRq0<0Pp"1`A6D>0-L4p>U1XWS7l('NCR&gh%,YpPElia=S$gla28K/-R_bl(UbMb-kH/(iY2iMFo-C=6_V4q,UAW:_D;Gl'WAR)%b"iNQO8bb?,/8W!8(H1/u!W)/kno_,e&4_[Ze0Hj<r3(]dQJkdoR!NWL.>Js,JZP#Br&$t_eG"Ld(%Y=jd'A1DU"UrnYa`ft%k<YS"2Be2!mY`]VD9inD%EtBBYNm]oR0k#(O;aRJn;J6.38E408-YVmB$W5j479TemaC4^Me:%(qR4k&S7U9l"oqjgcoh;u[U'_)pS`Ad$MFO)meYe17K@AmNc'R_U@L@V*bM1!`F14Y)Q7e%c=4^;;!fFr/R:gg#nNP,..635Uan]%R'iCVq/NtB3![!RJ'?-arW_R5K<h`K4&sb`Ej"`%B^l7"#7ckAk#V<4nR]`e=1kG&$TpZ!^Kc&cB7@nH2R[fNPCIKE?80`m:ej?WUMRj6l;j:-Y;^S7TQP,p\o&CpM;T%mo$W.:f%m7^akaUVA8$gbE7po`n(QCI^b`T1O&usMkPJLKGXA+#1JthMI%Hq"JQbYIZCD[.$HNGS?8M+n%/cnd#?o2uPdh-O[lQY8/*T2%#JC?s&l!iRm42C)ai,g!tF>7`TjU7^&]"faq\*XR^q$G0-5ma2_Lh<#XZlk-,KKf\r+7RYY1RrHbjL[.SMiUX&&V"Fm$-$@<3lh$Z,()dq1J1c\ZY6BK;J6U@bg`3[q&?^E"pY5]6fo^0VRF:WF'0+j/-G2[=+oZKnk#LZ%U!WiIY.WR-OKi"@"ENS,(Ue\-RQZdaW=2NJeO>2S="OK-I4\,nP2cLF!:b(jeDi]nT`N=A<2IM$//(,nH\uhk#$?5>rU70`I*"h?QNK*='n-BVSC"K]UNfN6gokgg5gAg<j&?0S(9IhX)eH#n^Or$Hth/(rBmROC:-kK)d!;Rmdf25qGtl']XZ_gYO6L5V+=Hl.8[=a%o%-:IQI@3/QT?ioB#ARPFG&OSp!52KK4ksGfC)Cdq;rC\[g#HjrR67/t1R#B6&(*PFIIW2qOVU>\A*Kd,B'!cK$>1&[es'*i0VH^_qpd,>:Lmc,mr%S\l:.-roioY)V@?<9>lc&$1KS,>:L#jtIUt@14<DZ@$j6%D*a?"$l45@"c!.C5q]`^X3f*X4`2hVfk0nU'F0mA6KuCmS&3oP<I]h"Eu2>\2+HZ9_NF<'&8oAiQf=A`POHsJM1It)4sXC(N1s%0#uS=PAB(_f9bM*==\eG.'^:cA*OPiN;rKh[:qO6He52FmN&:k7]htN5B^/u6=s]n3'P*EN;n#`q>kEI^:64&?o=WU#=O<JL&cIm6*R)ZI1L1+`<O5>e#n;m8fJnYUA$TTJ)X2,<j`+f#7t8ML\!!_Xp`u5$Np6^!.?'J]m[?3K709XYtm!6IC:UIfk2fsCgTC4UI+I9?uR!(4EeM2-Nsp[2MYThbJInM/Abe!(GQ,,),,7oWM%=DN5<H>1=,b_"pToZ1K;YFAn53UjgYM'DHs_+[pYTT_,a(nlXDM*b7X@^PX7(K;J5%l6@mBI0t.lQKb<OVFlf;5-5X]S'N(23U_/)h8dZ\YC0$!JU_R2Gd\r.m)cf5J/QD&4clOpBKj9ClW`3\="S.7*B\]<):"YC_Z4Blu7?&8'3W1_Yie5f3;\TE'*>YlHa\deAGrHYqfdfF4=E$CZ:VV!93549&^HVk]!G2\#TjNs3E*L"W7dS8J=(#5PrK7TWI.^%g8BVC3j'r*[^N=["&%(,K<R>-/)g[NnftWprBY*eIBjCSpDBSqaOL>8Y7iq#3K23V19>C$7+s1KG/uCYm5Dql#b<gA;6k".hF;1EU(<Nl`(DJ9*/8cX6(u_ZOQPjIci=/-T\JZ5[J$TM;a\"O]2B6j>$oFLX,Sj)nMn6(gD\n&-KVN8!d:b\im*Zh"nS$X$1pHiBD`U'r0bTGV%7Xk!J`^$CRZWueD+qeT2UM@o9J[<G\d_81AA'2^,g8e=l8BVVBa1#5Md]dU12B5i)E?+A=q&jmP$&`e#&q0*"W6u;i\>6/&`Tn,om,[OPF0SJR']?WMg2klG.H)UreBU)p8BDW@9s;WLb,I5dGTH+f]I^+FW6DJh#35`@St,g$189H$0-9'j_.Q3i<]':KVP[G>9ZTKo*GSrX4i*2[2Wen5WqfA'T`lA+Wt3r)K5`-_SHKi*J2\t,.V'rS&QTXj<TC(/XlNi`3bChdZnZ?!`&KIhuh\jK@,s$0KPj2rQQ.ka#7<n_SRro,g;VXc$/"uN_!6[&ICo:\0+9BR^)\.>5'rPh;]MA:%[?:d=5H>]"Y2,$MI;GU=4NPJd(NIVL?(8&?'<.@tY.GO*2dLlYZ58IPskqKVo@8e^8+p]5'=Z2/O,-^T$nk@G>)da4c*Y(.Es_LRr_(Gh(%#2m@8rfW;tS\b^>*TA:+Xs6[ef\%b:&c'P&(^GfMJ28G,g8aE)#5h93Mkap=TrbGO:CnILFgF!fCmV5#]X9O";)rAVhH%o?%)Mo;k%kbX,Ypoq:TVXo?R9XsAnI_$GU$5I*$WX(hTtng*XB0.260AlN^S,=bFue%>m)m#[qh$*<AaT>EX]YABcH\%$,&6Z9c7VXqa2??Z8h5aj_o,#.J1OBArgM^lCeG,0ooc_;aaM7mIb.HH=];_.@>=K(1"#Fdnia63l(uo4f!jSUcB]ap.]qsgpVh]74#d.8_NK%,gN#"QO'Okna9Klh!"8oUC\MWdMo=AajPcp#iT)*l-X@61#C/<!*_r<uE8j$N4Qk[S4WMY,>PC8P#%3#0%l9*n0MN:N@CKBe34`qWTBEOMNL&&4+5?U-_r,mo7S[]C/#VUab5l7D]S8Gg!.$nOBeMq`*p_Tt#L<%Y+G3)aaH_:5/-eMr,FB$]q\VSGWbtn1S+X(tkuRmFOMS4D&+UEK`[WmkrH&A5<1i?uQ[tTV^ZRUNG6[5P(0dju)atFe9D*;\gs7)1?`Mf8_g8jL@J%NJIo(J/Y+_b-[cb>U2N,m9]3sE#"1-q:4O#X^/#&Ve]laOqQXNRqAUE>iT)@m30c*6&bQS#O[;e9QXA.6aA!9nu4N<X`(QXQ!0ckC:n<c!`*m;6MZT<Q``q9TYCK%Wc*/sMN\.MSrGOZLq@Q_YHKZBOi;egfafKfm^ZP\a_c=/mog?tVfd7"3:>+WW?U;^WV-Pe&BKZDee"d(5XKn`38p;LNVRtoVL4HIOo/mEmO&,g3)-4_J0%jqU-39b`K3QT*ppMf\nLD0.8j>dbFic1B$#0"61!Wu4HCKM6:@(K=\j7^mRkk(4`amnKcjnR*a$rY\ASW&%^#`9#Hai@ulUIkR3ZF[2Y$pdgGHR"'@:p\jUe%VIJj.b!O<9am;eG*nRX38W\S+4JZ9D/#Vo]5dX%&r:9dE.m$IOt^Eg!j[=`/YTbhjp:/St,cK;UKf"8CF<<)TV]F9f%nO9s.nVo&I-]r9M0R;mSAt*c^66RP&&/2F]o_j/D<Y37`3f1ZJ;MdL#ti&W1DpCh.*?V6m[ol^iMo-&eaq^f0<m5aZCbb-X*,l7$a-bL9u2dlBsF!F<6AdbU2p?hOYS1UdOZgj>m7rk#o.J@2QFQI3P&"P3@AgD2XCe`7sr>+e*#9itCpJuBWo9VJ5_E3u8J-f.Z7;s7VF-dodffIuFj]1Wmn&n9CVD40N1c3F7qlA2FZD2s.;%udt&/7P9T,3%@p[tg!D#;_-;pLD$io%gH?\m:L>e29h,CQa=]-L#\JE_t@5h6'<ZlC,U.3^?7$9\prVrWKl[pUAQ%VWG>H>ZZ1Jq%53nD"&FSP*J<t(*aa[Pq?HgIPL[bI@5$BGgck1p@NNaRH&h,24]((be1K9hq[#2Qa[(;6&[Bo3j7AFo(d;\?T,U\83RJNBRdgEnFq:cpRHQR^o<^B\&%;72a\d`D/aP32ad9chZ;[u!>!!3$$ZG^/dTN=\8>2CFj]%Zn@$.(k&q(T;Vb)&6GQg`eZOi(_SQCq#::Ka4<(J/]Im=)"`=S4ASoif76fK^5nE"G$$sAebQ`k/S?4@dK&.]1c=4-k%'W/K>"<l1,(e[3F.qh>"-=c4L^77k/]hJ/(ZldE/\;^>`.R).+,KUmD#QH%+6<(kTKP+.DV$-=F\U<ORcL-E8\/2k*7Qi;[qh.Z]&mu2YNm[_G_ig+T.'%Zf<<J\YMS1\Q-8^]iqW3>j\Np(D$aTXq;P#;5@+DE>*!#tSc(O`^sUjK:J=1bJD&bro(V99I9<]@eP6d4e0#rcLHA.Zo_A?#Jd+ogs-fn4o79=9Gn(o;`/B/h\#1T)G^V;1^:Lg:q.U6H)-r2]-_3UrIstF+Q:\'r$NV`S2*dND,/,.2KtZ(<2QpT4mgh&I"[G%ca9?r(-?*XjN=RXfhX>N/kMRP*Gco"Ara:Clr%Kk&Q,<jd]L9icmM_fOa[Ci>(F"dI^opbN;H_4c>MbbMCgNpbapa?S1"d)8kV.p-AcbE]N'GY0m%./Oc2g%te57H3qG7oJHAdm+/]Un(]+hV(0dN9s%!E4q4iR*ZL]PPuMGTn"[7Btuio)N9J0RD:_s*e>TsV4MLtE5/#JBMK6P?sRfqTLLcje)<h2l`j+ZZJ?P&<3(#BdqVfO5$U@d&NUR(uM,;t]Qe\sRF9pt>l-AM=d,70i7]US4-R`Vt;YokLm7Zg#B)Gr`)<";R9CjY:tOXVMHA9=8%abF?b,*$2/5l*?<Ur6=NME^PW2eboF,FLLRGol)<C&`Xq?SLJ,1a(Om.p+`UdY7\0dVM83O48\:Q88DKIec+&^5aePD%'Q8S#OLOR7clsqIC>"ugs^Pjl.shO9[..K&0g#kWHMPY(Zle>3@kV+M%KJZi/)h\i-%@jegT@?pObF=GoZ.oi<'3r_^?Z2o:cXJGJXsZ&#BL\f)h#q;q+LkgEE\W(rV7l"uHV0Z7X1-&8/$"Acm,IlA4*4XZ@$3#H7K*+?mlupBGUam@bJ^4h;dCh2q!N%8"#JP(U=hl#oF7:cB@hb7P[6^8N($nlP;ZUA]=!3oO<R*EQ:KpX>;qd:@@tmV2m+p6R/9j=MoTX=a7)RM?QFnAWp,m_`OLI!Kiq7)\V#=D:Cs&<'`?MBAI_?G/A2IQ\aC:0s-QbN&2PnP`V-#46@`mR>;p5@<k/\t3/ccX%&0W=12[prEUEIV[*,o:O>]6#cJYqW,n*i:DH;$mC9ZA03W*p);?V0LJ6m50ORbdsO?&+pVQG0YOd><XF`ig'+\TN-_jFUAW[\b1+f[NN1086\Z4V7S6KAVr[q0BA*TlEaqU2;"%b%N8J.#3UG1cFm2'S_C&V=rW3-S^ZiuZgcNJn$\W*"iaXR%W+ClU_49(/g::(8FQ"l928qu\e<DRU@\en=?1b<Qm_3e0M2h$58+PaJO5@N-%'Lgdq!;3"mJ/i"1Rj0g@AK3]\,,uA]aORYhDXYcke+;oVcUfPa`Cc]][r>0]p<oH,u8k>&[*KVH>NXu.q[#6LG?CRhrQV<:`_jA5S*JMjdZuH@0e+VjS\B@o_aKJoM,uLbY=)[rr)^^!476_#6Oq&VY%1R^l]1t6:^"81]DNkJ#KtknaXN76@Go#X6l%qq,\:)GVq2srj)1Q=l2`mqsNa`Zac@\0:?j9(%S:=mcfLVGPlXc^iU.'`"6<c$ntrukb>j8$j[?i]5HGK&`qiZpshC>E$lWu7(krF0P$$Q#S))%0QBdU.&`-G!oq,46ud')JUIM>(^:*FUNf!g0T68cE#9c),^9P@cT*]L%SWI<?kOHH4R9f$4"ts*JUcZf(d9j5GXcKtrFrZY8GH`+D&/$i/>m-?H8XO6]jFLc2k'npfb:!6_$rJ]+05KPK/A_TbhM`IanOtr-g,m8i77&^oloSoMc]O>(q<?-k*h<.>b2AkI,[_qg]=bDUX?1=q"<1V)9[A<N.dtdj"!C3?`r:F-Pn/N6V:d/()d7I!]%eXafG+._eLo5WV(Z1qb+[Vk6#KQrTfZRfu&+sqkHf_L'-q%E"47e/+a]sK@2h8OR-kKl>Sc$=(hq@C>(8i1^p2hcgDK4l+71kLW9RJl3W2CRYO8\plPOa'p\EL7P#jFAS!<_V#']MI9\/!]uSH6M#(I'C\SN!((W_5gP;C0)]4J'1kQ@iD4@0o#XX,I3+1,Gc5b4,P$TDV%M<XLX(D(6)(O4:cLShbEAU9#(OM=hjW9O:Pj"ph1hDhT,VU&kAC:H_<@fLX>]E=JECl>M!&';."m]`;q#=%R!)',H?<r<47rVR[R!,'*5P^EXqU-4^2oqE@eij1`#NiJMB&l_S1gc@,pcL]#Ou+1iPB?52',A$[@F`;pUeYB!(+>$B*Sk0d_NK$e@AU\,8-`A3L*QM3)E6S)3*4!s:YNI*h]0CjrVFGKo]Y4H?.S#edeF5'*ZVmjc@1I(?1;]n4S`"*:1Q&L\$qJ,9X8DFWg0BBXTJAN/bp,(,o2dtq,PlB:jC"rY6"$,>Os`M>*c87qt3(#_kf/OocCkAn-N9(>B[0S`b/[7L1#O6-g+s-/kCVBSj"&8BdY['cJ.)E"X[A0+.TDXNKb#[;jHQO@u?;NA0"5U;Vr[oK.UC3g=`ps.l\?kM3'Xagi0V`G&72Bn,so#Sa*!#<#Jo!L/tm&5c*.rn4QN0?ge(MK#_@\1/T\bY-_nC4*"TZ3is*OQ/\l#Eg2p+qTH'"Z440(367^Jl8\!arPo&U'4kqsgUNk.)1LA%mp'>I+thF5Gk--/d*HDi,/EHuh^0f[j]0bfU=;b]L_)[&<M:6!=_''7=[s*Ye@,_J@#NWU6n`*G#(-U#=urMpNGWtIoSFXkFXEsDeNndkK/WH6Y"G=;L;:Ie$?7bk6HGok8Y-nQBl^GR]oTg`6@%,B@&]>0>et/8B*VML/$)/m8nb2B&^md5U4MY>Xn`kFXpo.Si;%iNX?TM<cZ_MLpnORp*r+N("TZX$;XJice^4"A0t/,36,RBl0`2MffiZn`c'PnSrNP(U-%PjTB(:YF0/rKl7YQQ?5On=kppE<^!:EM&nI$pI>hQbs4Y1NKlT\^Uj\"?:&1s@8BE&."faKKOJ]f]bn9X\u/]oZpBDS>@h>_r8C"+X!BY<QC7_+WtJ*%\PI=?L0YFD"\9u=qN_"@$l^/:BaEk\+E%og1:#cqc.'i+3^2J]gC6f/iY:HL/+pMb*^K$>&H)&r8'MoFt)K51u3qsEkPoQGWZ]k&R7?9l(3."0o8-k60)nPVr0Qh?_grU,!=VZaNj=rt]W8u+P@]N*)R!E'IcTE~>endstream
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 1 0 R
+>>
 endobj
 13 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3652
+/Length 10069
 >>
 stream
-Gb!#^CNJ4N')eD/dH(o5OtEH%#6OT<_'J!BT7F8[<N`(90S!UU&WL>As8JT2]eB^2k@To^GmL15l(7-'h5>U9;?MDBrVpt.oR9L&5+#ka1nKoq(_2O$WBYk'oo3C&g'tY]pr[8RB%--D[!36l?E;o#"O$"*M]taahqf3YgM!uLd)#aja`I)V*p$@\G;76X@9g.p[P6#c>HZFI-WuI>[&YN6B#ebq0t7=.G]Kj9l00JJD&HC)Uo)UWFEg]d+nfGLkp31_1#/d#HahkQ7bS)aHtW)pgYS@hntpW.]Y*@n.@D!ZN$c/&-hDmU[aT=Z%1?gr^_\=NKF)8Q8WF6#9UEaLWa,kdgljPZ#I06=Of'II#Lm&#+BEUKMg-:4E4S)-2juA4=AIlZ)OuK0A;)`^p;5`>NPEj82ca<R$MJ!eCo`ss\eGNDp;Y`8\Ejlo>#l:`R',),D*Bal^hLD]X'%P@UKT7T>cM#=q&=XJFI*mc%1NfJJ4;03V'\r2Mngap5+)W#(V7?XJFg&=&hYhG)g7]F0V2.DfKjrG>J6NNrR`aa4#(#ASI@$VWF;X#fbWogK!e$AD:2T@>ckmD#>I"R]LD>Npel\C_7qXM%rD%2NJXEY@!?0n=4G/;o-^/"HAu2dR$eh8hRJSK(heE#EN!AE*KSFT4)jQkL39SX"-XRmI/a3X`&PfGTi!i1?u#fReoSj<nhY.K"WG%(#rK1fB$B\`r]);>-Ja'[@oK]7VflE[<K$C8lHi+rRVnlYP5`*XP0ps%"l]UB5K;PZ<LC7[SV_g\Y+8NW\gee&3u)7-*-P^3X2?(\Tr#lO%gB4R$@plX8Yc8fpO#*edH<gq:V*N>naAZol$:gjkM=V%nTm%6#>TMO2Q@<g]6OeQSGFFmMJa*h"]D>r4S!#:o,h]/+]'S?$$Ap_0ob]7_(=JXD'e3J4,7oB</Ml[.*!$WZ1)HJad&3o0J='\N$,uAd54OKp_^/S07uZUL^?rEm[0lp,RQ4O]G7oIn&:>a/%h2\.IS40CT1CT5o5\oEU-82oAIS\/Ec?nC?_j#^7?.`Den7"H85,e6L'8%/AJ%D;DALX5s-Xn&pf+\>#Bt2kW^!?_r=2i$EM@e]J[M@80[$EI1\"CNf7<YWE92lJiKP0CE>`ldFB\&Kn':W[.G'gHh,#*nWQQf]=,<VaA(89,AhQeX9*F2qZ(";T,>p$mf,M5CqUn3<H-41<.K-Vgo6U;6FtU^C]@!K?$Q"Gqsih9s,?1NNmAmFo&=c<qg3@(dCVT[3K/pR`VC>m-KG)4iuPcFg^%R"mbhI+q6t<-\i_"/;^]J3ms6r3I-sdVT=VpXDqlF8/-h6\G?M)3.ta8AkC8G6VA[m[hSg%8&;Rj7hBtF?T*N%nesjd"La?8?l#j"MP^teUL;CuOJ[@b%n_][]*I4U]C+qj=P>F+1I'=\&#7)[_8%/f?>2XWN"fMr_&oe>2?G+?O"@-g\BXt^>Z^DU\'H[Ra.t%BeR"Il@PQ1fG4:"O#[GWp@(f"jb/U`:GKKLfC\bL@k^73Bu*dg&O1/U9V?lK4Q_]ZuE#C5T73Ok&ll>8Q&0e`]T1$(88DuTg!gP:F:D?$8NI3N,d=,GkJ6GkL9W@&<)?]FHMq-Ef"a_;$Y;\EsQStM:_DSA<FH9"hQ&%l5H7>r9oTCtdqqGVlcI6&Edi9"e&]/[Jf4.gocG>H8OoV`AkaqHu=3SAjG)%ZW--R1$n9O"-DI^0<Bq*4u;c(lG>S%%M5)MD1J<e$^%0Wf[[)4XtV[P.pd&i^g3$t;Cj5"19r$+7DT75RZ"(WeORWG^Q2FKK),0@_'`4Y3"8big^!%*q-fL#J!roO]#dU2[fcRK+Y965:R_;]*oEa%Konn,[emP%'\J@=W[)[9u.X[.K&?h@E06HSZO5Ac5Y'&On^fVB08i+FY>T?[d/::4_<cb/jjuQGtR!3IZ%8S`)M#eiA160Z.f`jV@Qugt1Q;1/-0>i-U"thhT1_j2&][!TK(NPq[5b=\.r!n-+EFi5-9%EZ%GlZI"(ajgJ@M"(C*5KS!7ag_ZPKP(4c$qlgtPE9Ap3VT:B_J>i5kNHO4I(P#m0l?Lo&?4I48rhMWCkckk92eWUacfqC2kmL8rOjh**;cX;X!2WA9iRWkdiKB8!pgGIeC-We,dgPT]4.37#Pb]=Q,OF]2idn?j(BU71N"dV@7?jmUo6u9%o'RSE,K=j&W549t)UVI<1ZBNcm7m$dBA-Ys_TD4fp;"eY>6d&%G2\Z%Y;tdR>?8*+bMZntQJ9^SoO/#k7gQ_<6JQhac[ol,_^*Z=h$`MC+FKRRi_G)+MYQ?WWX"-`6P6`<W-9!?pcV6$?06J%$(@etHUAr^koV9^m7l6*JH7A\5tI,OfMBrr?`"XI$m3t'7^<&8Q?#^LO*II!ErqaFF\"U#]Q-8gR22D[QKEc!8Qn$(/gAP&('pl3Oh)W-E3bF%,"'Wd(CNuUiV'hG,FAo7=HI/-I4(p/+"LI#(JOcqe'b)bfCQqYG7;oGrmP,p)/$TL&SYHr&8ANj"X4hFG-a_U5cBFm?:8D=dXn-hFmH4tAD=?U]Jk)`*IW6`d2eg;$:JdEreCMW?uUYm_tUhJo90XSoTKnnc;fc&6#.fhpd)fJ;kRa+M^V9MlM#-k"gu!2;>:0Wgr0C%raShGl7RHM2Y.F+7e<Rob#XFV;p@Aq]dY_^j'$&*EWI#.S6"jI)=9gN_+'(5qA%B0SV%i'Gb33^;Kii[nZpI4]<4@6Wp80$ar4Pg08m5I*I"?UE:3ErRs.`uT(U.A6*EVmRi2>3_Sn[%hfQaRP3][djZK^[qqD2RD7TOI_f4?Cd*LKZ<!$61<HLo0XZKgbT2&MC)iXHkG?OLdp<Oq_OK+cUMeN!6jnjRT5Qg7b`e4C,DT5X5HZ!R]P\fADZ'OVsO@&$=:rt7W/i3ZhQ1X7`DZu$D@,VnYE202'gHV)f&$O<'V6LU*:u+_%&e/3@\jT+*HebclqAp$VWPqDa8:<\2[<4.$k6"<Hh[9!7#f*-$,k1+#<(-slZ=)6b$"*k&n/nnE3DEsXhBb=NH%o=fXCFR7g;J<.ZIggeMOu6j!tf*fg3XBBDY.oAp1Ss77@<[F0>cT+D!,,0Q,W;%YamTHNk6sn[J-&`<SU:iI)bE1rNhi%i&dgT,4!ftag$2"L?Rma'AQ[`hqHS+^<'[cU^VdNW=T#]i+b-)_;9FdcD/ed8@)mm<[uG>!cTXV.O2D22D-,in;`e_N_@mYe/j:@RkpK7j0-126+SV%'\jTP!-CT;Gm'[CQ,lIL.:^9un0[/[gIL>oJs+c%)P`Z5lZsO8+`/_MO^H,:Bet"=TpP1L=r$a\k*i,4c"9.lbL"j%J89V#".Y,\J?qDr0R:)%D7@[cn$<s$h%E8jHSE8S"K=4Q+8NiRbMTk.N`aIZR,/?Gj6*5)!cdZ\[*<j>QLVME9'"18Zs:dfQc=EeTjDH\B6rjXaJ.]#)=&H)ioMEVik<*4n3]p>(9^lSRT@]Q+hb<_+K$fr>tjGSZ=X82_c'FD`\$H`)<mI:7V[s/]5mVNXmM.DImN7ZhJ6]lI]!)?Mk]q`o;:bMJ-PsCoMu4cDFX>kF<,McZ"[pLF[3FMS``L7WLd?-lk7$lK#uK4>ip?@&f3KB`IJC!SMi=&@\*I,^j[q-TCh9\i>0o&~>endstream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.298039 .4 .521569 rg
+n 0 785 122.9 7 re f*
+.360784 .478431 .4 rg
+n 122.4 785 122.9 7 re f*
+.643137 .458824 .317647 rg
+n 244.8 785 122.9 7 re f*
+.419608 .392157 .470588 rg
+n 367.2 785 122.9 7 re f*
+.545098 .360784 .403922 rg
+n 489.6 785 122.9 7 re f*
+.298039 .4 .521569 rg
+n 0 0 122.9 3 re f*
+.360784 .478431 .4 rg
+n 122.4 0 122.9 3 re f*
+.643137 .458824 .317647 rg
+n 244.8 0 122.9 3 re f*
+.419608 .392157 .470588 rg
+n 367.2 0 122.9 3 re f*
+.545098 .360784 .403922 rg
+n 489.6 0 122.9 3 re f*
+BT /F1 7.5 Tf 9 TL ET
+.419608 .454902 .501961 rg
+BT 1 0 0 1 43.2 16 Tm (Ansura  -  Architecture Documentation) Tj T* ET
+BT 1 0 0 1 545.0325 16 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 43.2 725.4 cm
+q
+.305882 .486275 .486275 rg
+n 0 27 26 -27 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 5.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 3.386 0 Td (3) Tj T* -3.386 0 Td ET
+Q
+Q
+q
+1 0 0 1 36 4 cm
+q
+.168627 .203922 .254902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Component design) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.305882 .486275 .486275 RG
+1.2 w
+n 26 0 m 525.6 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 43.2 715.4 cm
+Q
+q
+1 0 0 1 43.2 641.4 cm
+q
+.298039 .4 .521569 rg
+n 0 74 92 -74 re f*
+.909804 .929412 .94902 rg
+n 92 74 433.6 -74 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 32 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL 19.664 0 Td (AGENT 1) Tj T* -19.664 0 Td ET
+Q
+Q
+q
+1 0 0 1 101 56 cm
+q
+.168627 .203922 .254902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Self-Service Analytics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 101 6 cm
+q
+BT 1 0 0 1 0 39.5 Tm 12 TL /F1 8.5 Tf .247059 .290196 .352941 rg (A native SEMANTIC VIEW \() Tj /F3 8 Tf (ANALYTICS_SEMANTIC_VIEW) Tj /F1 8.5 Tf (\) declares business-friendly dimensions, facts, and) Tj T* (metrics \(loss ratio, total premium, fraud claim count, revenue at risk, churn probability\) over six operational) Tj T* (tables, with relationships declared explicitly so Cortex Analyst always joins correctly. Cortex Analyst translates) Tj T* (a natural-language question into governed SQL against this view.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 636.4 cm
+Q
+q
+1 0 0 1 43.2 562.4 cm
+q
+.360784 .478431 .4 rg
+n 0 74 92 -74 re f*
+.917647 .941176 .921569 rg
+n 92 74 433.6 -74 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 32 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL 19.664 0 Td (AGENT 2) Tj T* -19.664 0 Td ET
+Q
+Q
+q
+1 0 0 1 101 56 cm
+q
+BT 1 0 0 1 0 2.5 Tm 12 TL /F2 9.5 Tf .168627 .203922 .254902 rg (Document Q) Tj (&) Tj (A \(RAG\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 101 6 cm
+q
+BT 1 0 0 1 0 39.5 Tm 12 TL /F3 8 Tf .247059 .290196 .352941 rg (POLICY_DOCUMENTS.CONTENT_TEXT) Tj /F1 8.5 Tf ( is chunked with ) Tj /F3 8 Tf (SPLIT_TEXT_RECURSIVE_CHARACTER) Tj /F1 8.5 Tf ( into) Tj T* /F3 8 Tf (DOCUMENT_CHUNKS) Tj /F1 8.5 Tf (. A CORTEX SEARCH SERVICE indexes ) Tj /F3 8 Tf (CHUNK_TEXT) Tj /F1 8.5 Tf (, with POLICY_ID,) Tj T* (DOCUMENT_TYPE, and DOCUMENT_TITLE as filterable attributes. Cortex Search generates and manages) Tj T* (embeddings internally, so there is no separate embedding pipeline to maintain.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 557.4 cm
+Q
+q
+1 0 0 1 43.2 471.4 cm
+q
+.643137 .458824 .317647 rg
+n 0 86 92 -86 re f*
+.952941 .921569 .890196 rg
+n 92 86 433.6 -86 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 38 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL 19.664 0 Td (AGENT 3) Tj T* -19.664 0 Td ET
+Q
+Q
+q
+1 0 0 1 101 68 cm
+q
+.168627 .203922 .254902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Data Quality Root Cause) Tj T* ET
+Q
+Q
+q
+1 0 0 1 101 6 cm
+q
+BT 1 0 0 1 0 51.5 Tm 12 TL /F1 8.5 Tf .247059 .290196 .352941 rg (A second semantic view \() Tj /F3 8 Tf (DQ_SEMANTIC_VIEW) Tj /F1 8.5 Tf (\) sits over DQ_RULES, DQ_RESULTS,) Tj T* (DQ_COLUMN_HEALTH, DQ_SCORES, VW_DQ_COLUMN_HEALTH_TRENDS \(per-column trend/delta\),) Tj T* (and DQ_DOWNSTREAM_IMPACT \(lineage to affected dashboards and reports\). Users ask "why did X fail",) Tj T* ("which column dropped the most", or "is any downstream reporting impacted" and get an evidence-backed) Tj T* (answer.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 466.4 cm
+Q
+q
+1 0 0 1 43.2 404.4 cm
+q
+.419608 .392157 .470588 rg
+n 0 62 92 -62 re f*
+.929412 .921569 .941176 rg
+n 92 62 433.6 -62 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 26 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL 2.112 0 Td (ORCHESTRATION) Tj T* -2.112 0 Td ET
+Q
+Q
+q
+1 0 0 1 101 44 cm
+q
+.168627 .203922 .254902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (One agent, three tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 101 6 cm
+q
+BT 1 0 0 1 0 27.5 Tm 12 TL /F1 8.5 Tf .247059 .290196 .352941 rg (All three are registered as tool_resources on one AGENT object \() Tj /F3 8 Tf (ENTERPRISE_AI_AGENT) Tj /F1 8.5 Tf (\). The Cortex Agents) Tj T* (orchestration model decides per question which tool\(s\) to invoke. The "unified" requirement is met at the) Tj T* (platform level, not by the user having to pick an agent.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 399.4 cm
+Q
+q
+1 0 0 1 43.2 337.4 cm
+q
+.305882 .486275 .486275 rg
+n 0 62 92 -62 re f*
+.909804 .941176 .937255 rg
+n 92 62 433.6 -62 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 26 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL 13.668 0 Td (FRONT END) Tj T* -13.668 0 Td ET
+Q
+Q
+q
+1 0 0 1 101 44 cm
+q
+.168627 .203922 .254902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Streamlit-in-Snowflake chat) Tj T* ET
+Q
+Q
+q
+1 0 0 1 101 6 cm
+q
+BT 1 0 0 1 0 27.5 Tm 12 TL /F1 8.5 Tf .247059 .290196 .352941 rg (Calls ) Tj /F3 8 Tf (agents/ENTERPRISE_AI_AGENT:run) Tj /F1 8.5 Tf ( via _snowflake.send_snow_api_request, renders the answer,) Tj T* (shows which tool answered, and expands the generated SQL or document citations inline for transparency.) Tj T* (Every question and answer is logged to ) Tj /F3 8 Tf (AGENT_INTERACTION_LOG) Tj /F1 8.5 Tf (, including helpful / not-helpful feedback.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 332.4 cm
+Q
+q
+1 0 0 1 43.2 270.4 cm
+q
+.588235 .470588 .309804 rg
+n 0 62 92 -62 re f*
+.945098 .921569 .878431 rg
+n 92 62 433.6 -62 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 26 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL 8.336 0 Td (DASHBOARDS) Tj T* -8.336 0 Td ET
+Q
+Q
+q
+1 0 0 1 101 44 cm
+q
+.168627 .203922 .254902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Snowflake Intelligence dashboards) Tj T* ET
+Q
+Q
+q
+1 0 0 1 101 6 cm
+q
+BT 1 0 0 1 0 27.5 Tm 12 TL /F1 8.5 Tf .247059 .290196 .352941 rg (A second Streamlit page reads three view groups: ) Tj /F3 8 Tf (VW_PORTFOLIO_RISK_DASHBOARD) Tj /F1 8.5 Tf ( \(premium, loss ratio,) Tj T* (revenue at risk by policy type and region\), ) Tj /F3 8 Tf (VW_TREND_ANALYSIS) Tj /F1 8.5 Tf ( / ) Tj /F3 8 Tf (VW_CHURN_TREND) Tj /F1 8.5 Tf ( \(month-over-month) Tj T* (claims, fraud, churn\), and ) Tj /F3 8 Tf (VW_AGENT_ACCURACY_METRICS) Tj /F1 8.5 Tf ( \(query volume and helpful-rate per tool\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 265.4 cm
+Q
+q
+1 0 0 1 43.2 203.4 cm
+q
+.545098 .360784 .403922 rg
+n 0 62 92 -62 re f*
+.94902 .913725 .921569 rg
+n 92 62 433.6 -62 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 9 26 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL 28.112 0 Td (MCP) Tj T* -28.112 0 Td ET
+Q
+Q
+q
+1 0 0 1 101 44 cm
+q
+.168627 .203922 .254902 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (MCP integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 101 6 cm
+q
+BT 1 0 0 1 0 27.5 Tm 12 TL /F3 8 Tf .247059 .290196 .352941 rg (ENTERPRISE_AI_MCP_SERVER) Tj /F1 8.5 Tf ( \(CREATE MCP SERVER\) exposes the agent itself as a single) Tj T* /F3 8 Tf (CORTEX_AGENT_RUN) Tj /F1 8.5 Tf ( MCP tool, so any MCP-compatible client \(tested live with Claude's Connectors UI\) gets) Tj T* (the same fully executed, orchestrated answers as the Streamlit app, not just generated SQL.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 43.2 198.4 cm
+Q
+q
+1 0 0 1 43.2 171.4 cm
+q
+.360784 .478431 .4 rg
+n 0 27 26 -27 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 5.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL 3.386 0 Td (4) Tj T* -3.386 0 Td ET
+Q
+Q
+q
+1 0 0 1 36 4 cm
+q
+.168627 .203922 .254902 rg
+BT 1 0 0 1 0 4 Tm /F2 15 Tf 19 TL (Benefits) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.360784 .478431 .4 RG
+1.2 w
+n 26 0 m 525.6 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 43.2 163.4 cm
+Q
+q
+1 0 0 1 43.2 75.4 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+.298039 .4 .521569 rg
+n 0 88 123.4 -22 re f*
+.909804 .929412 .94902 rg
+n 0 66 123.4 -66 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 72 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Faster answers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 6 cm
+q
+.247059 .290196 .352941 rg
+BT 1 0 0 1 0 47 Tm /F1 8 Tf 11 TL (Questions that took hours) Tj T* (\(waiting on an analyst, a) Tj T* (document review, or a DQ) Tj T* (ticket\) now resolve in) Tj T* (seconds, in one conversation.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 131.4 11 cm
+q
+.360784 .478431 .4 rg
+n 0 77 123.4 -22 re f*
+.917647 .941176 .921569 rg
+n 0 55 123.4 -55 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 61 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (No new tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 6 cm
+q
+.247059 .290196 .352941 rg
+BT 1 0 0 1 0 36 Tm /F1 8 Tf 11 TL (Business users ask in plain) Tj T* (English: no SQL, no BI) Tj T* (dashboard navigation, no) Tj T* (ticket queue.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 262.8 11 cm
+q
+.643137 .458824 .317647 rg
+n 0 77 123.4 -22 re f*
+.952941 .921569 .890196 rg
+n 0 55 123.4 -55 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 61 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Trustworthy by design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 6 cm
+q
+.247059 .290196 .352941 rg
+BT 1 0 0 1 0 36 Tm /F1 8 Tf 11 TL (Every answer shows its) Tj T* (generated SQL or source) Tj T* (document citation, so it can) Tj T* (be verified, not just trusted.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 394.2 0 cm
+q
+.419608 .392157 .470588 rg
+n 0 88 123.4 -22 re f*
+.929412 .921569 .941176 rg
+n 0 66 123.4 -66 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 72 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2.5 Tm /F2 8.5 Tf 11 TL (Many channels) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 6 cm
+q
+.247059 .290196 .352941 rg
+BT 1 0 0 1 0 47 Tm /F1 8 Tf 11 TL (A single Cortex Agent and its) Tj T* (MCP server serve Streamlit) Tj T* (and any MCP-compatible) Tj T* (client, without separate) Tj T* (integrations per capability.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+endstream
 endobj
 xref
 0 14
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000331 00000 n 
-0000000436 00000 n 
-0000000689 00000 n 
-0000000921 00000 n 
-0000001116 00000 n 
-0000001185 00000 n 
-0000001505 00000 n 
-0000001577 00000 n 
-0000004913 00000 n 
-0000013209 00000 n 
+0000000015 00000 n 
+0000000088 00000 n 
+0000000227 00000 n 
+0000000276 00000 n 
+0000000525 00000 n 
+0000009136 00000 n 
+0000009187 00000 n 
+0000009294 00000 n 
+0000009406 00000 n 
+0000009511 00000 n 
+0000009740 00000 n 
+0000033083 00000 n 
+0000033274 00000 n 
 trailer
 <<
-/ID 
-[<9a6298f827fe28f25fd810e152117c41><9a6298f827fe28f25fd810e152117c41>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 9 0 R
-/Root 8 0 R
 /Size 14
+/Root 3 0 R
+/Info 2 0 R
 >>
 startxref
-16953
+43397
 %%EOF
